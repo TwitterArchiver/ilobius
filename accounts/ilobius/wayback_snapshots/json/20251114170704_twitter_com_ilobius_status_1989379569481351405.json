@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989377714466557958"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1989379569481351405",
+    "created_at": "2025-11-14T17:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T18:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989379569481351405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。. Contribute to FuQuan233/HeyTea_AutoUpload development by creating an account on GitHub.",
+          "display_url": "github.com/FuQuan233/HeyT…",
+          "end": 91,
+          "expanded_url": "http://github.com/FuQuan233/HeyTea_AutoUpload",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1989167495606095872/PQls9eSW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1989167495606095872/PQls9eSW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 68,
+          "status": 200,
+          "title": "GitHub - FuQuan233/HeyTea_AutoUpload: 一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。",
+          "unwound_url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
+          "url": "https://t.co/5ra3L4xMm2"
+        },
+        {
+          "description": "放一张图片进来就能秒变能印在喜茶杯贴上的黑白格式！关于如何上传，请在小红书查找相关的工具和教程哦 点击选择文件，或把图片拖到这里",
+          "display_url": "power888777.github.io/heyteapng/",
+          "end": 115,
+          "expanded_url": "http://power888777.github.io/heyteapng/",
+          "start": 92,
+          "status": 200,
+          "title": "喜茶杯贴小助手",
+          "unwound_url": "https://power888777.github.io/heyteapng/",
+          "url": "https://t.co/unyD0TKhOl"
+        },
+        {
+          "display_url": "pic.x.com/kUrxrUxp97",
+          "end": 139,
+          "expanded_url": "https://x.com/ilobius/status/1989379569481351405/photo/1",
+          "media_key": "3_1989377714466557958",
+          "start": 116,
+          "url": "https://t.co/kUrxrUxp97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989379569481351405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在这里放一张手搓的自定义喜帖\n带不带派，老铁！！！\n限时背叛九色鹿，我们灵感之茶真是太有灵感啦！\n一定要过审一定要过审一定要过审……\n\nhttps://t.co/5ra3L4xMm2\nhttps://t.co/unyD0TKhOl https://t.co/kUrxrUxp97"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1989377714466557958",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uwfbrbkAYM3Io.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989377714466557958"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1989379569481351405",
+        "created_at": "2025-11-14T17:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989379569481351405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。. Contribute to FuQuan233/HeyTea_AutoUpload development by creating an account on GitHub.",
+              "display_url": "github.com/FuQuan233/HeyT…",
+              "end": 91,
+              "expanded_url": "http://github.com/FuQuan233/HeyTea_AutoUpload",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1989167495606095872/PQls9eSW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989167495606095872/PQls9eSW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "GitHub - FuQuan233/HeyTea_AutoUpload: 一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。",
+              "unwound_url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
+              "url": "https://t.co/5ra3L4xMm2"
+            },
+            {
+              "description": "放一张图片进来就能秒变能印在喜茶杯贴上的黑白格式！关于如何上传，请在小红书查找相关的工具和教程哦 点击选择文件，或把图片拖到这里",
+              "display_url": "power888777.github.io/heyteapng/",
+              "end": 115,
+              "expanded_url": "http://power888777.github.io/heyteapng/",
+              "start": 92,
+              "status": 200,
+              "title": "喜茶杯贴小助手",
+              "unwound_url": "https://power888777.github.io/heyteapng/",
+              "url": "https://t.co/unyD0TKhOl"
+            },
+            {
+              "display_url": "pic.x.com/kUrxrUxp97",
+              "end": 139,
+              "expanded_url": "https://x.com/ilobius/status/1989379569481351405/photo/1",
+              "media_key": "3_1989377714466557958",
+              "start": 116,
+              "url": "https://t.co/kUrxrUxp97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989379569481351405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这里放一张手搓的自定义喜帖\n带不带派，老铁！！！\n限时背叛九色鹿，我们灵感之茶真是太有灵感啦！\n一定要过审一定要过审一定要过审……\n\nhttps://t.co/5ra3L4xMm2\nhttps://t.co/unyD0TKhOl https://t.co/kUrxrUxp97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 273
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

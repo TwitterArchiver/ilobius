@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1992969659206008901",
+    "created_at": "2025-11-25T07:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993216780941340747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895410782936170496",
+          "start": 0,
+          "username": "omgnowihavefish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993216780941340747",
+    "in_reply_to_user_id": "1895410782936170496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992969659206008901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihavefish A，轮流作业有新鲜感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1992969656446189568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hzV-SbgAAg1Eg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1992969659206008901",
+        "created_at": "2025-11-25T07:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993216780941340747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895410782936170496",
+              "start": 0,
+              "username": "omgnowihavefish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993216780941340747",
+        "in_reply_to_user_id": "1895410782936170496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992969659206008901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihavefish A，轮流作业有新鲜感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992969656446189568"
+          ]
+        },
+        "author_id": "1895410782936170496",
+        "conversation_id": "1992969659206008901",
+        "created_at": "2025-11-24T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992969659206008901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQEPCobQYT",
+              "end": 32,
+              "expanded_url": "https://x.com/omgnowihavefish/status/1992969659206008901/photo/1",
+              "media_key": "3_1992969656446189568",
+              "start": 9,
+              "url": "https://t.co/NQEPCobQYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992969659206008901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 125436,
+          "like_count": 511,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这道题的答案是啥 https://t.co/NQEPCobQYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 553,
+          "like_count": 1477,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 298
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:50:01.000Z",
+        "description": "2009/12/24生成于世界上\n\n精神状态十分良好🔥",
+        "id": "1895410782936170496",
+        "location": "亚洲(可能在你身边)",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "1981645551709085785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950083749598920704/TSn7WS_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 2667,
+          "like_count": 5227,
+          "listed_count": 9,
+          "media_count": 220,
+          "tweet_count": 726
+        },
+        "username": "omgnowihavefish",
+        "verified": false
+      }
+    ]
+  }
+}

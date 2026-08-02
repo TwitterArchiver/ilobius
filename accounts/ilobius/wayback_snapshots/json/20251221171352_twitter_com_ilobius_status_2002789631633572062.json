@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2002777134662820194",
+    "created_at": "2025-12-21T17:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002789631633572062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002789631633572062",
+    "in_reply_to_user_id": "1141910274594619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002779849782698148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来还有个专有名词的吗\n叫做 亲职化 指父母和孩子的角色发生颠倒，父母放弃了他们身为父母原本应该做的事情，并将这种责任转移到孩子身上。\n\n那我真得好好养自己了……我不止顺女童年没有，我好像童年就不怎么有。我说我怎么记不起来～\n喵的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2002777134662820194",
+        "created_at": "2025-12-21T17:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002789631633572062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002789631633572062",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002779849782698148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来还有个专有名词的吗\n叫做 亲职化 指父母和孩子的角色发生颠倒，父母放弃了他们身为父母原本应该做的事情，并将这种责任转移到孩子身上。\n\n那我真得好好养自己了……我不止顺女童年没有，我好像童年就不怎么有。我说我怎么记不起来～\n喵的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2002777134662820194",
+        "created_at": "2025-12-21T16:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002779849782698148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002779849782698148",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002777134662820194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果非要好为人师的话\n你的事情做成了就不要在乎家长怎么喷，这时候可以结果论\n把家长当房间里的大象…尽量不要产生交互了\n如果不得不交互的话捏，不主动不拒绝不负责\n如果恰好你会一点pua，我鄙视你但是这会儿用我认可你…\n之前记得有人说东亚的儿子会承担丈夫的一部分职能，确实。家长党也逃不掉😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 569,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 331
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

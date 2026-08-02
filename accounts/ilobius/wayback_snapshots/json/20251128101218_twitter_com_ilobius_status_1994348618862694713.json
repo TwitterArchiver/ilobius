@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994348608624414721"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1994348618862694713",
+    "created_at": "2025-11-28T10:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994348618862694713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jjwl1I8Eru",
+          "end": 45,
+          "expanded_url": "https://x.com/ilobius/status/1994348618862694713/photo/1",
+          "media_key": "3_1994348608624414721",
+          "start": 22,
+          "url": "https://t.co/Jjwl1I8Eru"
+        },
+        {
+          "display_url": "x.com/ilobius/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/ilobius/status/1993680392025788796",
+          "start": 46,
+          "url": "https://t.co/MHaa7YOB83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994348618862694713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993680392025788796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大病区依旧一如既往稳定发挥啊 炔雌醇这一块 https://t.co/Jjwl1I8Eru https://t.co/MHaa7YOB83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_1994348608624414721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61ZfjdaUAEen1G.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994348608624414721"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1994348618862694713",
+        "created_at": "2025-11-28T10:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994348618862694713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jjwl1I8Eru",
+              "end": 45,
+              "expanded_url": "https://x.com/ilobius/status/1994348618862694713/photo/1",
+              "media_key": "3_1994348608624414721",
+              "start": 22,
+              "url": "https://t.co/Jjwl1I8Eru"
+            },
+            {
+              "display_url": "x.com/ilobius/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ilobius/status/1993680392025788796",
+              "start": 46,
+              "url": "https://t.co/MHaa7YOB83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994348618862694713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993680392025788796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大病区依旧一如既往稳定发挥啊 炔雌醇这一块 https://t.co/Jjwl1I8Eru https://t.co/MHaa7YOB83"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1993680392025788796",
+        "created_at": "2025-11-26T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993680392025788796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993680392025788796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求解本人的用户画像啊\n那边发短信说补佳乐便宜了\n这边推视频说毓婷30分钟送达\n之前优思明/优思悦也总推给我\n奶糖派也是咔咔推\n\n我真求你了 我都不知道求谁…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ 退役魔法少女的细碎日常 ／ 不要关注不要关注不要关注 ／ 被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 564,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 302
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

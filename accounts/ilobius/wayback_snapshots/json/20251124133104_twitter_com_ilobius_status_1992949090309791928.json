@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992633745229426688"
+      ],
+      "media_source_tweet_id": [
+        "1992646829800825232"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1992949090309791928",
+    "created_at": "2025-11-24T13:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992949090309791928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "7176332",
+          "start": 3,
+          "username": "Miaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1EBEkCOqW",
+          "end": 33,
+          "expanded_url": "https://x.com/Miaw/status/1992646829800825232/photo/1",
+          "media_key": "3_1992633745229426688",
+          "start": 10,
+          "url": "https://t.co/h1EBEkCOqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992949090309791928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7587
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992646829800825232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miaw: https://t.co/h1EBEkCOqW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_1992633745229426688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dB1XfbMAAMmgo.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992633745229426688"
+          ],
+          "media_source_tweet_id": [
+            "1992646829800825232"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1992949090309791928",
+        "created_at": "2025-11-24T13:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992949090309791928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "7176332",
+              "start": 3,
+              "username": "Miaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1EBEkCOqW",
+              "end": 33,
+              "expanded_url": "https://x.com/Miaw/status/1992646829800825232/photo/1",
+              "media_key": "3_1992633745229426688",
+              "start": 10,
+              "url": "https://t.co/h1EBEkCOqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992949090309791928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7587
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992646829800825232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miaw: https://t.co/h1EBEkCOqW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992633745229426688"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "1992646829800825232",
+        "created_at": "2025-11-23T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992646829800825232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1EBEkCOqW",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/1992646829800825232/photo/1",
+              "media_key": "3_1992633745229426688",
+              "start": 0,
+              "url": "https://t.co/h1EBEkCOqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992646829800825232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1732,
+          "impression_count": 734354,
+          "like_count": 66971,
+          "quote_count": 269,
+          "reply_count": 84,
+          "retweet_count": 7587
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h1EBEkCOqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 552,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 294
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74737,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 208,
+          "media_count": 1411,
+          "tweet_count": 1437
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

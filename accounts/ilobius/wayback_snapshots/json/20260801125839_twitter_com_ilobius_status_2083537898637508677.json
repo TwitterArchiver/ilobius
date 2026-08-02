@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083378001224585487",
+    "created_at": "2026-08-01T12:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083537898637508677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793218407640481793",
+          "start": 0,
+          "username": "Tsuk1_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083537898637508677",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083378001224585487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuk1_qwq 我的心都有一个人的时候我就不想去看你\n甚至还挺有逻辑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083378001224585487",
+        "created_at": "2026-08-01T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083537898637508677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083537898637508677",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083378001224585487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 我的心都有一个人的时候我就不想去看你\n甚至还挺有逻辑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2083378001224585487",
+        "created_at": "2026-08-01T02:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083378001224585487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083378001224585487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都这么玩过吗？一直点输入法推荐的猜测词……\n\nqwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 446,
+          "like_count": 2861,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 453,
+          "like_count": 7776,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

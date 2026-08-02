@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2002401036817084777",
+    "created_at": "2025-12-20T15:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002401036817084777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/naekawa_sai/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/naekawa_sai/status/2001667442163224692",
+          "start": 3,
+          "url": "https://t.co/rsYTNUeeTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002401036817084777",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001667442163224692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🏳️ https://t.co/rsYTNUeeTx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2002401036817084777",
+        "created_at": "2025-12-20T15:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002401036817084777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naekawa_sai/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/naekawa_sai/status/2001667442163224692",
+              "start": 3,
+              "url": "https://t.co/rsYTNUeeTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002401036817084777",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001667442163224692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🏳️ https://t.co/rsYTNUeeTx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285120817878032384",
+        "conversation_id": "2001667442163224692",
+        "created_at": "2025-12-18T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001667442163224692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "watatabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001667442163224692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 71158,
+          "like_count": 1286,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "大切なのに傷付け合う関係性、だ〜いすき #watatabe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 569,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 328
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T07:54:22.000Z",
+        "description": "■電撃マオウ「私を喰べたい、ひとでなし」連載中　公式アカウント→@Wata_Tabe　アニメ公式→@wttb_tv\n■FLOSCOMIC「後宮一番の悪女」コミカライズ連載中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "Wata_Tabe"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "wttb_tv"
+              }
+            ]
+          }
+        },
+        "id": "1285120817878032384",
+        "name": "苗川采🐰わたたべ＆後宮悪女",
+        "pinned_tweet_id": "1986722729220067566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297778901536538624/LagF4aaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23371,
+          "following_count": 60,
+          "like_count": 1050,
+          "listed_count": 136,
+          "media_count": 203,
+          "tweet_count": 2552
+        },
+        "username": "naekawa_sai",
+        "verified": false
+      }
+    ]
+  }
+}

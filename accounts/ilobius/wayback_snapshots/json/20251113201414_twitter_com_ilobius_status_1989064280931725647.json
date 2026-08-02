@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1989064280931725647",
+    "created_at": "2025-11-13T20:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T21:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989064280931725647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hui_0024/statu…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/hui_0024/status/1988499592959451507",
+          "start": 100,
+          "url": "https://t.co/dSMFfsKb94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989064280931725647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988499592959451507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以害怕的人根本不敢开始，甚至可以压过自己的生理本能。\n所以完全理解开放性关系，性爱解耦不用担责，只进入身体，不进入生活。进入彼此的日常生活这件事，对我来说，还是太冒犯了……\n说归说，我个人不敢。😇 https://t.co/dSMFfsKb94"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_1988499587288702976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iR1tBaoAA0juE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1989064280931725647",
+        "created_at": "2025-11-13T20:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T21:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989064280931725647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hui_0024/statu…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/hui_0024/status/1988499592959451507",
+              "start": 100,
+              "url": "https://t.co/dSMFfsKb94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989064280931725647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988499592959451507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以害怕的人根本不敢开始，甚至可以压过自己的生理本能。\n所以完全理解开放性关系，性爱解耦不用担责，只进入身体，不进入生活。进入彼此的日常生活这件事，对我来说，还是太冒犯了……\n说归说，我个人不敢。😇 https://t.co/dSMFfsKb94"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988499587288702976"
+          ]
+        },
+        "author_id": "1793273469637111808",
+        "conversation_id": "1988499592959451507",
+        "created_at": "2025-11-12T06:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988499592959451507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW3wDrQDOo",
+              "end": 31,
+              "expanded_url": "https://x.com/hui_0024/status/1988499592959451507/photo/1",
+              "media_key": "3_1988499587288702976",
+              "start": 8,
+              "url": "https://t.co/MW3wDrQDOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988499592959451507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 96953,
+          "like_count": 1805,
+          "quote_count": 26,
+          "reply_count": 41,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "给某人一个忠告 https://t.co/MW3wDrQDOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 270
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "叫我小绘 高p 泛性恋 随意分享日常 无门槛喜欢可以投喂（纯绿不会发生什么）推广自辨 不约不露三点 私信会看 只回感兴趣 美少女互关贴贴 碎碎念小号@xn5410298085554仅限互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "xn5410298085554"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hui_0024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hui_0024",
+                "start": 0,
+                "url": "https://t.co/L8wYoFvp4h"
+              }
+            ]
+          }
+        },
+        "id": "1793273469637111808",
+        "location": "匿名箱看这里⬇️ 互关加v私信即可ovo",
+        "name": "一只小绘饼",
+        "pinned_tweet_id": "1988522250866213135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982108087260418048/ttfu06Qi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 789,
+          "like_count": 7037,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 7819
+        },
+        "url": "https://t.co/L8wYoFvp4h",
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

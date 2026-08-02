@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1996202790272778600",
+    "created_at": "2025-12-03T19:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996300998441324649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996300998441324649",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996202790272778600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 我只能说有的变态老师会收笔记检查……btw国誉的纸，那很有品了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_1996202782450388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Pv2rOaEAAmsMH.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-03T19:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996300998441324649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996300998441324649",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996202790272778600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 我只能说有的变态老师会收笔记检查……btw国誉的纸，那很有品了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996202782450388992"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-03T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996202790272778600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tziW7hyV48",
+              "end": 35,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/1996202790272778600/photo/1",
+              "media_key": "3_1996202782450388992",
+              "start": 12,
+              "url": "https://t.co/tziW7hyV48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996202790272778600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 47732,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这种人考试能考几分 https://t.co/tziW7hyV48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 571,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 309
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "0️⃣｜2008 年韓留｜❤️鏡音レン ｜文案均屬真實   R16❗️",
+        "id": "1804849792121499648",
+        "location": "고려대학교",
+        "name": "阿莫Amoris🇹🇼🏳️‍🌈🇰🇷🇨🇳",
+        "pinned_tweet_id": "1993492458463019226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987930366330761216/H76N-a-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 320,
+          "like_count": 24777,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 2784
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

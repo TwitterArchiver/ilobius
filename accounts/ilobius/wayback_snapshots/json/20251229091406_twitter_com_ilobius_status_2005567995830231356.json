@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2005567995830231356",
+    "created_at": "2025-12-29T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005567995830231356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005567995830231356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005288853914153085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldscX: 我们不说跳楼，我们说生命掷地有声"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2005567995830231356",
+        "created_at": "2025-12-29T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005567995830231356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005567995830231356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005288853914153085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldscX: 我们不说跳楼，我们说生命掷地有声"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2005288853914153085",
+        "created_at": "2025-12-28T14:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005288853914153085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005288853914153085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 25943,
+          "like_count": 783,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说跳楼，我们说生命掷地有声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 579,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 341
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "你的意思是，一个未成年跨性别为了装逼泄漏了全体舞萌玩家的数据库，违反刑法第285-2条，泄露过后被气急败坏的舞萌吃开盒后有又气急败坏提供了入侵舞萌的外挂软件，违反刑法285-3条，充当了全体舞萌玩家账号被攻击始作俑者。然后上网哭诉一下自己又被反跨人士攻击过后美美洗白了？一点罪过也没有，全都是舞萌吃咎由自取？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.apple.com/cn/album/deici…",
+                "end": 23,
+                "expanded_url": "https://music.apple.com/cn/album/deicide-feat-hazuki-koizumi/1776078589?i=1776078591",
+                "start": 0,
+                "url": "https://t.co/lBYUvU7OP6"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "澳门 花地玛堂区",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2002095581628674077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004413187681406976/YgTuy8ZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 120,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/lBYUvU7OP6",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

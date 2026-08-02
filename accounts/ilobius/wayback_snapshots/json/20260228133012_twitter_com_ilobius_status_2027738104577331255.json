@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2027648827868778944",
+    "created_at": "2026-02-28T13:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027738104577331255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027738104577331255",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027648827868778944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 三角恋犯法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2027648827868778944",
+        "created_at": "2026-02-28T13:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027738104577331255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027738104577331255",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027648827868778944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 三角恋犯法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2027648827868778944",
+        "created_at": "2026-02-28T07:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027648827868778944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2027406467444175050",
+              "start": 10,
+              "url": "https://t.co/gnZ2nSSgbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027648827868778944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 530,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027406467444175050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三人关系再次修复了 https://t.co/gnZ2nSSgbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "不鹿就瑞。 \n友链：星眠@hoshinemu123 常曦@ciyou9443 亿隆@elonmusk 排名不分先后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "name": "鹿？",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。星眠生活号，不定期推音乐/美术作品，爱好古风。汉服复兴运动。北京/长春，欢迎小女孩们来找我玩。\n三人关系：素素：@ciyou9443 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 3225,
+          "like_count": 3260,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 8829
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

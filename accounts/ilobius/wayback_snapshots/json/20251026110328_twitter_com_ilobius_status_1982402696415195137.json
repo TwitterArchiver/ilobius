@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1982402696415195137",
+    "created_at": "2025-10-26T11:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982402696415195137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Cldeop/status/1982286890867814711",
+          "start": 5,
+          "url": "https://t.co/wCiATWI9bG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982402696415195137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982286890867814711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狠狠做！ https://t.co/wCiATWI9bG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_1982286880486899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4J_akpWwAANgS3.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1982402696415195137",
+        "created_at": "2025-10-26T11:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982402696415195137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Cldeop/status/1982286890867814711",
+              "start": 5,
+              "url": "https://t.co/wCiATWI9bG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982402696415195137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982286890867814711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狠狠做！ https://t.co/wCiATWI9bG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982286880486899712"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1982286890867814711",
+        "created_at": "2025-10-26T03:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982286890867814711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBYKD4AAZW",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1982286890867814711/photo/1",
+              "media_key": "3_1982286880486899712",
+              "start": 0,
+              "url": "https://t.co/lBYKD4AAZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982286890867814711",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 94744,
+          "like_count": 1965,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lBYKD4AAZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 516,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 236
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84911,
+          "following_count": 649,
+          "like_count": 31103,
+          "listed_count": 257,
+          "media_count": 12981,
+          "tweet_count": 18392
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

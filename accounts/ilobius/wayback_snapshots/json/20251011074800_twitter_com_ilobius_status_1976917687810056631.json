@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976006642895409152"
+      ],
+      "media_source_tweet_id": [
+        "1976006677595070599"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1976917687810056631",
+    "created_at": "2025-10-11T07:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T08:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976917687810056631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1367410222264942592",
+          "start": 3,
+          "username": "juniorkingpp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ESmcLzhwW",
+          "end": 62,
+          "expanded_url": "https://x.com/juniorkingpp/status/1976006677595070599/photo/1",
+          "media_key": "3_1976006642895409152",
+          "start": 39,
+          "url": "https://t.co/1ESmcLzhwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976917687810056631",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976006677595070599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juniorkingpp: Any poets on the tl? https://t.co/1ESmcLzhwW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_1976006642895409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wvkoeX0AAMZEA.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976006642895409152"
+          ],
+          "media_source_tweet_id": [
+            "1976006677595070599"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1976917687810056631",
+        "created_at": "2025-10-11T07:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976917687810056631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367410222264942592",
+              "start": 3,
+              "username": "juniorkingpp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ESmcLzhwW",
+              "end": 62,
+              "expanded_url": "https://x.com/juniorkingpp/status/1976006677595070599/photo/1",
+              "media_key": "3_1976006642895409152",
+              "start": 39,
+              "url": "https://t.co/1ESmcLzhwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976917687810056631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976006677595070599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juniorkingpp: Any poets on the tl? https://t.co/1ESmcLzhwW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976006642895409152"
+          ]
+        },
+        "author_id": "1367410222264942592",
+        "conversation_id": "1976006677595070599",
+        "created_at": "2025-10-08T19:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976006677595070599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ESmcLzhwW",
+              "end": 44,
+              "expanded_url": "https://x.com/juniorkingpp/status/1976006677595070599/photo/1",
+              "media_key": "3_1976006642895409152",
+              "start": 21,
+              "url": "https://t.co/1ESmcLzhwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976006677595070599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 590,
+          "impression_count": 15075913,
+          "like_count": 2251,
+          "quote_count": 1597,
+          "reply_count": 442,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "Any poets on the tl? https://t.co/1ESmcLzhwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 498,
+          "like_count": 1084,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 223
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-04T09:43:25.000Z",
+        "description": "Focused",
+        "id": "1367410222264942592",
+        "name": "໊໊",
+        "pinned_tweet_id": "1976728685383127266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951700879284871168/mkkLGtZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31613,
+          "following_count": 2641,
+          "like_count": 598903,
+          "listed_count": 16,
+          "media_count": 246,
+          "tweet_count": 98906
+        },
+        "username": "juniorkingpp",
+        "verified": true
+      }
+    ]
+  }
+}

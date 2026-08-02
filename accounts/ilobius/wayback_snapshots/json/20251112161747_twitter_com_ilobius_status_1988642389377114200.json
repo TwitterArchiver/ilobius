@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988066267493023744"
+      ],
+      "media_source_tweet_id": [
+        "1988069165463204127"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1988642389377114200",
+    "created_at": "2025-11-12T16:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988642389377114200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "868354704",
+          "start": 3,
+          "username": "TheCatsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WM4YRnQzwk",
+          "end": 37,
+          "expanded_url": "https://x.com/TheCatsX/status/1988069165463204127/photo/1",
+          "media_key": "3_1988066267493023744",
+          "start": 14,
+          "url": "https://t.co/WM4YRnQzwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988642389377114200",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8011
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988069165463204127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatsX: https://t.co/WM4YRnQzwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1988066267493023744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cHvK_bwAAOotg.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988066267493023744"
+          ],
+          "media_source_tweet_id": [
+            "1988069165463204127"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1988642389377114200",
+        "created_at": "2025-11-12T16:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988642389377114200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "868354704",
+              "start": 3,
+              "username": "TheCatsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WM4YRnQzwk",
+              "end": 37,
+              "expanded_url": "https://x.com/TheCatsX/status/1988069165463204127/photo/1",
+              "media_key": "3_1988066267493023744",
+              "start": 14,
+              "url": "https://t.co/WM4YRnQzwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988642389377114200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8011
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988069165463204127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatsX: https://t.co/WM4YRnQzwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988066267493023744"
+          ]
+        },
+        "author_id": "868354704",
+        "conversation_id": "1988069165463204127",
+        "created_at": "2025-11-11T02:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988069165463204127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WM4YRnQzwk",
+              "end": 23,
+              "expanded_url": "https://x.com/TheCatsX/status/1988069165463204127/photo/1",
+              "media_key": "3_1988066267493023744",
+              "start": 0,
+              "url": "https://t.co/WM4YRnQzwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988069165463204127",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1331,
+          "impression_count": 796762,
+          "like_count": 58976,
+          "quote_count": 170,
+          "reply_count": 114,
+          "retweet_count": 8011
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WM4YRnQzwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 542,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 265
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T17:25:41.000Z",
+        "description": "Your Daily Dose of Cats",
+        "id": "868354704",
+        "name": "The Cats 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703176912552837120/Pzw5L3az_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202243,
+          "following_count": 10,
+          "like_count": 1024,
+          "listed_count": 525,
+          "media_count": 10245,
+          "tweet_count": 10828
+        },
+        "username": "TheCatsX",
+        "verified": true
+      }
+    ]
+  }
+}

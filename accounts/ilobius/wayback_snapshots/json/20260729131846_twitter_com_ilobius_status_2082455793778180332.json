@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082285784661676492",
+    "created_at": "2026-07-29T13:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082455793778180332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055498933535924224",
+          "start": 0,
+          "username": "rewolF0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082455793778180332",
+    "in_reply_to_user_id": "2055498933535924224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082285784661676492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rewolF0307 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082285784661676492",
+        "created_at": "2026-07-29T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082455793778180332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055498933535924224",
+              "start": 0,
+              "username": "rewolF0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082455793778180332",
+        "in_reply_to_user_id": "2055498933535924224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082285784661676492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rewolF0307 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498933535924224",
+        "conversation_id": "2082285784661676492",
+        "created_at": "2026-07-29T02:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082285784661676492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082285784661676492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1423,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊，好讨厌……\n好讨厌我的身体……\n为什么声音，体格，外貌这些东西都这么像男孩子……好讨厌\n就算去HRT的话用处也不大了吧……\n好羡慕年龄党啊……\n我这辈子好像就只能是个恶心的恶臭的令人讨厌的死宅男啊……无论我多想变成女孩子都改变不了这一点……\n呜……\n我讨厌我自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 475,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T04:01:59.000Z",
+        "description": "🏳️‍⚧️|Birth 2010.03.07|高二|偶尔玩些音游|在学化妆|在学习c++和JavaScript|梦想是成为理想的自己|无聊时经常内耗|喜欢听ACG歌曲，术力口以及草东|不🚬不🍺不od不鉴证|喜欢发呆|想要有人陪",
+        "id": "2055498933535924224",
+        "location": "在你的怀里哦，我爱你喵",
+        "name": "朝花rewolF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073712160799424512/TxpIClce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 63,
+          "like_count": 4641,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "rewolF0307",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024176355768967168"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "2024176370331635766",
+    "created_at": "2026-02-18T17:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024176370331635766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkA1lGBCeN",
+          "end": 172,
+          "expanded_url": "https://x.com/ilobius/status/2024176370331635766/photo/1",
+          "media_key": "3_2024176355768967168",
+          "start": 149,
+          "url": "https://t.co/AkA1lGBCeN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024176370331635766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要向全世界安利这个muji的宠物玩具～\n软软的毛绒绒，很好捏很好rua！还会响！而且看起来很美味😋\n真的很解压诶！！！！超好玩的！\n\n👉玩猫玩具的猫注定会度过一段相对成功的人生！\n———\n最近确实开心，没什么别的想法。\n至于我日记呢？恰巧都说出去了，也不怎么深度内耗，所以没有夜间总结环节了捏… https://t.co/AkA1lGBCeN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2024176355768967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdRq8haoAAY1KS.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024176355768967168"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "2024176370331635766",
+        "created_at": "2026-02-18T17:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024176370331635766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkA1lGBCeN",
+              "end": 172,
+              "expanded_url": "https://x.com/ilobius/status/2024176370331635766/photo/1",
+              "media_key": "3_2024176355768967168",
+              "start": 149,
+              "url": "https://t.co/AkA1lGBCeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024176370331635766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要向全世界安利这个muji的宠物玩具～\n软软的毛绒绒，很好捏很好rua！还会响！而且看起来很美味😋\n真的很解压诶！！！！超好玩的！\n\n👉玩猫玩具的猫注定会度过一段相对成功的人生！\n———\n最近确实开心，没什么别的想法。\n至于我日记呢？恰巧都说出去了，也不怎么深度内耗，所以没有夜间总结环节了捏… https://t.co/AkA1lGBCeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 608,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 398
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

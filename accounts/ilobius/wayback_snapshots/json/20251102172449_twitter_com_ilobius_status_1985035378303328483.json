@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1984774925811597781",
+    "created_at": "2025-11-02T17:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985035378303328483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985035378303328483",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984774925811597781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 刷牙五分钟 吹头五分钟 这对吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1984774923760578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4tWRwHaMAAFRXP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1984774925811597781",
+        "created_at": "2025-11-02T17:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985035378303328483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985035378303328483",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984774925811597781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 刷牙五分钟 吹头五分钟 这对吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984774923760578560"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1984774925811597781",
+        "created_at": "2025-11-02T00:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984774925811597781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymn6HdvKGq",
+              "end": 45,
+              "expanded_url": "https://x.com/jianlvup/status/1984774925811597781/photo/1",
+              "media_key": "3_1984774923760578560",
+              "start": 22,
+              "url": "https://t.co/ymn6HdvKGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984774925811597781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 188233,
+          "like_count": 366,
+          "quote_count": 10,
+          "reply_count": 232,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一，一个男生洗澡50分钟真的很久吗？ https://t.co/ymn6HdvKGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 531,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 246
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1984771849205793165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11047,
+          "following_count": 1038,
+          "like_count": 54509,
+          "listed_count": 40,
+          "media_count": 1902,
+          "tweet_count": 4423
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

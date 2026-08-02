@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982843033532940288"
+      ],
+      "media_source_tweet_id": [
+        "1982843041879929029"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1983147541811409113",
+    "created_at": "2025-10-28T12:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T13:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983147541811409113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DUZEFu246Y",
+          "end": 85,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1982843041879929029/photo/1",
+          "media_key": "3_1982843033532940288",
+          "start": 62,
+          "url": "https://t.co/DUZEFu246Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983147541811409113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982843041879929029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 老师：思政课对全国大学生来说是水课\n老师：但你们都知道\n老师：水，是生命之源\n我： https://t.co/DUZEFu246Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 144,
+        "media_key": "3_1982843033532940288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R5O8MWwAA8ZNg.png",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982843033532940288"
+          ],
+          "media_source_tweet_id": [
+            "1982843041879929029"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1983147541811409113",
+        "created_at": "2025-10-28T12:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983147541811409113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUZEFu246Y",
+              "end": 85,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1982843041879929029/photo/1",
+              "media_key": "3_1982843033532940288",
+              "start": 62,
+              "url": "https://t.co/DUZEFu246Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983147541811409113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982843041879929029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 老师：思政课对全国大学生来说是水课\n老师：但你们都知道\n老师：水，是生命之源\n我： https://t.co/DUZEFu246Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982843033532940288"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1982843041879929029",
+        "created_at": "2025-10-27T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982843041879929029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUZEFu246Y",
+              "end": 65,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1982843041879929029/photo/1",
+              "media_key": "3_1982843033532940288",
+              "start": 42,
+              "url": "https://t.co/DUZEFu246Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982843041879929029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16989,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "老师：思政课对全国大学生来说是水课\n老师：但你们都知道\n老师：水，是生命之源\n我： https://t.co/DUZEFu246Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 522,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 238
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500,
+          "following_count": 7391,
+          "like_count": 26027,
+          "listed_count": 15,
+          "media_count": 5838,
+          "tweet_count": 38704
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

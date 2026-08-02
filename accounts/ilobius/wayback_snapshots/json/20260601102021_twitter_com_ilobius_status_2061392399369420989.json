@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2061392194712588325",
+    "created_at": "2026-06-01T10:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061392399369420989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061392399369420989",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061392194712588325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 我不玩ba孩子们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2061392194712588325",
+        "created_at": "2026-06-01T10:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061392399369420989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061392399369420989",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061392194712588325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 我不玩ba孩子们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2061392194712588325",
+        "created_at": "2026-06-01T10:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061392194712588325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027399556716277760",
+              "start": 5,
+              "username": "ilobius"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2061319748793864438",
+              "start": 14,
+              "url": "https://t.co/yerfIm5ya9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061392194712588325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061319748793864438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "指导教师 @ilobius https://t.co/yerfIm5ya9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "此路不通，请你掉头。\n会在这里定期更新最近推介的饮品：\n#冰镇杨梅瑞纳冰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "冰镇杨梅瑞纳冰"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。我曾淋我来时雪，亦将长歌去时晖。星眠的生活号，不定期推音乐/美术作品。古风狂热爱好者，古风音乐策划，汉服复兴运动。隐居宣州，长三角随机出没，欢迎小女孩们来找我玩。家里茶室对外开放。\n坏事都是她做的：@ciyou9443 指导教师：@ilobius\n头像画师：飞鸟壹号机；主页头图画师：Z6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠子",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 3319,
+          "like_count": 3730,
+          "listed_count": 5,
+          "media_count": 969,
+          "tweet_count": 10161
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

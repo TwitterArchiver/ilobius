@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2027067898322469142",
+    "created_at": "2026-02-26T17:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027069177631228157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027069177631228157",
+    "in_reply_to_user_id": "1141910274594619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027067898322469142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么如何提升自控数值呢？\n\n一个回复自控的好办法是在妓院以及脱衣舞俱乐部跳舞，因为它们有露出癖 1-5(穿着淫乱服饰等级更高，首先脱去外衣会提高内衣提供的等级)。说不定还能进行自愿性行为，它提供了针对淫乱相关的选项，有助于额外回复一些自控。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2027067898322469142",
+        "created_at": "2026-02-26T17:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027069177631228157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027069177631228157",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027067898322469142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么如何提升自控数值呢？\n\n一个回复自控的好办法是在妓院以及脱衣舞俱乐部跳舞，因为它们有露出癖 1-5(穿着淫乱服饰等级更高，首先脱去外衣会提高内衣提供的等级)。说不定还能进行自愿性行为，它提供了针对淫乱相关的选项，有助于额外回复一些自控。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2027067898322469142",
+        "created_at": "2026-02-26T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027067898322469142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027067898322469142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在努力学习爱上生活。\n但今天在努力逃离原生家庭！\n精神不稳定的家长太可怕啦，九好一坏，很影响我的心理卫生了。\n真不如家暴我算了……\n——\n地球ol什么时候能设置一个退出键～\n操控我的玩家能不能至少冲个月卡啊？你的pc要死掉啦！！\n自控– –\n压力++\n创伤++"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2024519737611608467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 605,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 406
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

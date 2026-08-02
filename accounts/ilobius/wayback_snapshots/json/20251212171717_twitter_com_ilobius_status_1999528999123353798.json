@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1999176201194393637",
+    "created_at": "2025-12-12T17:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999528999123353798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1357966984361750528",
+          "start": 0,
+          "username": "wwwAlce4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999528999123353798",
+    "in_reply_to_user_id": "1357966984361750528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999176201194393637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwAlce4 有偶尔实践，完全正确的！推荐华住会，还能洗点衣服，汉庭有学生价，也不会很贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1999176201194393637",
+        "created_at": "2025-12-12T17:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999528999123353798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1357966984361750528",
+              "start": 0,
+              "username": "wwwAlce4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999528999123353798",
+        "in_reply_to_user_id": "1357966984361750528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999176201194393637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwAlce4 有偶尔实践，完全正确的！推荐华住会，还能洗点衣服，汉庭有学生价，也不会很贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357966984361750528",
+        "conversation_id": "1999176201194393637",
+        "created_at": "2025-12-11T17:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999176201194393637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999176201194393637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 26851,
+          "like_count": 397,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "大学生就应该每周开一次房。不是为了做爱。只是自己一个人光溜溜地躺在大床上，心里都会很放松。可以随心所欲，不用担心卫生，不用担心明天的课表，不用担心任何人来打扰。或许我并没有要做什么的需求，但是这份自由就已经足够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 567,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 327
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T08:19:01.000Z",
+        "description": "bi 07 游离在深圳的一具丧尸 里推指南 @TTTonLiiim 匿名回答在下方哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "TTTonLiiim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwalce4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwalce4",
+                "start": 0,
+                "url": "https://t.co/opIe9CQDJc"
+              }
+            ]
+          }
+        },
+        "id": "1357966984361750528",
+        "name": "麟",
+        "pinned_tweet_id": "1926200933068779738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761774979438522368/RWHiCjBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 482,
+          "like_count": 749,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/opIe9CQDJc",
+        "username": "wwwAlce4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988733925137739780"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1988733932695965826",
+    "created_at": "2025-11-12T22:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988733932695965826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4rGjAI84MS",
+          "end": 140,
+          "expanded_url": "https://x.com/ilobius/status/1988733932695965826/photo/1",
+          "media_key": "3_1988733925137739780",
+          "start": 117,
+          "url": "https://t.co/4rGjAI84MS"
+        },
+        {
+          "display_url": "x.com/ilobius/status…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/ilobius/status/1988378666586567131",
+          "start": 141,
+          "url": "https://t.co/Li2N9GOhE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988733932695965826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988378666586567131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很快啊（马保国音），似乎真的已经滚了……\n现在相关话题会被切到新模型GPT 5.1，个人体验是明显在说人话，而不是危险相关直接三不沾了\n总之暂时还好，后续再看看～\n\n呃，说起来，现在大家还知道我们浑元形意太极门吗……有点暴露年龄（x https://t.co/4rGjAI84MS https://t.co/Li2N9GOhE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_1988733925137739780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5lm99iacAQR41O.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988733925137739780"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988733932695965826",
+        "created_at": "2025-11-12T22:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988733932695965826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rGjAI84MS",
+              "end": 140,
+              "expanded_url": "https://x.com/ilobius/status/1988733932695965826/photo/1",
+              "media_key": "3_1988733925137739780",
+              "start": 117,
+              "url": "https://t.co/4rGjAI84MS"
+            },
+            {
+              "display_url": "x.com/ilobius/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ilobius/status/1988378666586567131",
+              "start": 141,
+              "url": "https://t.co/Li2N9GOhE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988733932695965826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988378666586567131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很快啊（马保国音），似乎真的已经滚了……\n现在相关话题会被切到新模型GPT 5.1，个人体验是明显在说人话，而不是危险相关直接三不沾了\n总之暂时还好，后续再看看～\n\n呃，说起来，现在大家还知道我们浑元形意太极门吗……有点暴露年龄（x https://t.co/4rGjAI84MS https://t.co/Li2N9GOhE0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988369745494897122",
+        "created_at": "2025-11-11T22:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988378666586567131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988378666586567131",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988369745494897122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OpenAI能不能带着你的gpt5-safety滚出去啊？？？？？？某种意义上确实安全了，只要不断地路由来刺激用户，就会把用户气死，从而暂时忘记刚才在想什么，实现合家欢大结局💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 268
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

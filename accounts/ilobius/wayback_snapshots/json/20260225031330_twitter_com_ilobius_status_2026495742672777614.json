@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2026495742672777614",
+    "created_at": "2026-02-25T03:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026495742672777614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455934423614963716",
+          "start": 3,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026495742672777614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026099270139380206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jack26116326: 回避型都给我站成一排 机关枪准备扫射 反正你们会回避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2026495742672777614",
+        "created_at": "2026-02-25T03:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026495742672777614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455934423614963716",
+              "start": 3,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026495742672777614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026099270139380206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jack26116326: 回避型都给我站成一排 机关枪准备扫射 反正你们会回避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2026099270139380206",
+        "created_at": "2026-02-24T00:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026099270139380206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026099270139380206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 58298,
+          "like_count": 912,
+          "quote_count": 29,
+          "reply_count": 57,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "回避型都给我站成一排 机关枪准备扫射 反正你们会回避"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2024519737611608467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 609,
+          "like_count": 2084,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 402
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "我要杀了所有骗我的人",
+        "id": "1455934423614963716",
+        "name": "xkkk",
+        "pinned_tweet_id": "2024760498252894681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 46,
+          "like_count": 890,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 355
+        },
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

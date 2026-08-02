@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1985031926756049171",
+    "created_at": "2025-11-02T17:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985032099997610449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "精神需求测试分析你在10个核心精神维度上的占比，帮你直观地了解自己的内心需求和能量构成。",
+          "display_url": "arealme.com/spiritual-need…",
+          "end": 23,
+          "expanded_url": "http://www.arealme.com/spiritual-needs-quiz/cn/",
+          "start": 0,
+          "status": 200,
+          "title": "精神需求测试 - 10个核心维度，揭示你的灵魂驱动力",
+          "unwound_url": "https://www.arealme.com/spiritual-needs-quiz/cn/",
+          "url": "https://t.co/eFhSXACskk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985032099997610449",
+    "in_reply_to_user_id": "1141910274594619392",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985031926756049171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/eFhSXACskk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1985031337879937024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4w_fBJaIAAMtSK.jpg",
+        "width": 1558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1985031926756049171",
+        "created_at": "2025-11-02T17:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985032099997610449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "精神需求测试分析你在10个核心精神维度上的占比，帮你直观地了解自己的内心需求和能量构成。",
+              "display_url": "arealme.com/spiritual-need…",
+              "end": 23,
+              "expanded_url": "http://www.arealme.com/spiritual-needs-quiz/cn/",
+              "start": 0,
+              "status": 200,
+              "title": "精神需求测试 - 10个核心维度，揭示你的灵魂驱动力",
+              "unwound_url": "https://www.arealme.com/spiritual-needs-quiz/cn/",
+              "url": "https://t.co/eFhSXACskk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985032099997610449",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985031926756049171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/eFhSXACskk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985031337879937024"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1985031926756049171",
+        "created_at": "2025-11-02T17:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985031926756049171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMchVU9Gv5",
+              "end": 100,
+              "expanded_url": "https://x.com/ilobius/status/1985031926756049171/photo/1",
+              "media_key": "3_1985031337879937024",
+              "start": 77,
+              "url": "https://t.co/HMchVU9Gv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985031926756049171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乐子人这一块^ ^\n真就缺啥补啥吗 确实很难感觉到乐趣 所以成了第一需求？\nAll in all, 喜欢创造乐子的自由人一枚捏\n\n原来我不缺爱吗，芜湖~ https://t.co/HMchVU9Gv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 530,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 246
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

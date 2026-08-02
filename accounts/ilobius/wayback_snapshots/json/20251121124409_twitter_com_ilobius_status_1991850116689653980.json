@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1991646892770619442",
+    "created_at": "2025-11-21T12:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991850116689653980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991850116689653980",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991646892770619442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 是捏，而且这么点存款也没有什么抗风险能力。只能说今朝有酒今朝醉，Tomorrow is another day!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_1991646890015035393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6PAS1VbkAEJQbs.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1991646892770619442",
+        "created_at": "2025-11-21T12:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991850116689653980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991850116689653980",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991646892770619442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 是捏，而且这么点存款也没有什么抗风险能力。只能说今朝有酒今朝醉，Tomorrow is another day!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991646890015035393"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1991646892770619442",
+        "created_at": "2025-11-20T23:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991646892770619442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9A1Isxxh1",
+              "end": 38,
+              "expanded_url": "https://x.com/jianlvup/status/1991646892770619442/photo/1",
+              "media_key": "3_1991646890015035393",
+              "start": 15,
+              "url": "https://t.co/c9A1Isxxh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991646892770619442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 164286,
+          "like_count": 401,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一瞬间不知道存钱的意义在哪了 https://t.co/c9A1Isxxh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 546,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 285
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1991646892770619442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12278,
+          "following_count": 1076,
+          "like_count": 58230,
+          "listed_count": 43,
+          "media_count": 2042,
+          "tweet_count": 4705
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

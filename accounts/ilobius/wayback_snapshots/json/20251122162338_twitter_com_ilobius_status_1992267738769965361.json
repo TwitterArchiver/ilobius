@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1992188537769488563",
+    "created_at": "2025-11-22T16:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992267738769965361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697158457450012672",
+          "start": 0,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992267738769965361",
+    "in_reply_to_user_id": "1697158457450012672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992188537769488563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayawo11_ 我去，那我牛了克林顿，本来不想聊的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1992188537769488563",
+        "created_at": "2025-11-22T16:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992267738769965361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697158457450012672",
+              "start": 0,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992267738769965361",
+        "in_reply_to_user_id": "1697158457450012672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992188537769488563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayawo11_ 我去，那我牛了克林顿，本来不想聊的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "1992188537769488563",
+        "created_at": "2025-11-22T11:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992188537769488563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992188537769488563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17855,
+          "like_count": 319,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "用苹果手机的人注意了，不要再和AI聊天网恋了，那都是特朗普在回复你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 548,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 289
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1983883542334730360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 143,
+          "like_count": 3663,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

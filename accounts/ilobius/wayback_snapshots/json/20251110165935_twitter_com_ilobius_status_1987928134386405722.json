@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1987928134386405722",
+    "created_at": "2025-11-10T16:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987928134386405722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pretty594321/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/pretty594321/status/1987220122466201734",
+          "start": 15,
+          "url": "https://t.co/NHnRxrrJ21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987928134386405722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987220122466201734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补药这样啊  但又感觉蛮对😇 https://t.co/NHnRxrrJ21"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_1987220112630554624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5QGKefbIAAp8k2.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1987928134386405722",
+        "created_at": "2025-11-10T16:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987928134386405722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pretty594321/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/pretty594321/status/1987220122466201734",
+              "start": 15,
+              "url": "https://t.co/NHnRxrrJ21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987928134386405722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987220122466201734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补药这样啊  但又感觉蛮对😇 https://t.co/NHnRxrrJ21"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987220112630554624"
+          ]
+        },
+        "author_id": "1547239678549495813",
+        "conversation_id": "1987220122466201734",
+        "created_at": "2025-11-08T18:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T19:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987220122466201734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnMZ3K1PYR",
+              "end": 32,
+              "expanded_url": "https://x.com/pretty594321/status/1987220122466201734/photo/1",
+              "media_key": "3_1987220112630554624",
+              "start": 9,
+              "url": "https://t.co/mnMZ3K1PYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987220122466201734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 111085,
+          "like_count": 1810,
+          "quote_count": 18,
+          "reply_count": 58,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "我对拧巴的态度： https://t.co/mnMZ3K1PYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 540,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 257
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:21:49.000Z",
+        "description": "一期一会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pretty594321",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pretty594321",
+                "start": 0,
+                "url": "https://t.co/bdXaUZ91TL"
+              }
+            ]
+          }
+        },
+        "id": "1547239678549495813",
+        "location": "私人日记本",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "1753486408290111544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842669399196782592/zjnIhb0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 137,
+          "like_count": 10789,
+          "listed_count": 5,
+          "media_count": 1084,
+          "tweet_count": 10027
+        },
+        "url": "https://t.co/bdXaUZ91TL",
+        "username": "pretty594321",
+        "verified": false
+      }
+    ]
+  }
+}

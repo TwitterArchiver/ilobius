@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2004996549768872273",
+    "created_at": "2025-12-27T19:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004996549768872273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004996549768872273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近无事发生，因为在看生活大爆炸，嘎嘎大笑没有时间和精力思考自己那些有的没的……\n是的你叶其实就是这么好糊弄。之前确实也想到了但选错片，边缘行者难受一宿\n最近还吸了人，大概也算体验了普通兄弟该有的社交吧——豆瓣评分一星\n我并不烦他，但他下回约不出来我√\n\n或许今年写个总结？那明天再写吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2004996549768872273",
+        "created_at": "2025-12-27T19:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004996549768872273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004996549768872273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近无事发生，因为在看生活大爆炸，嘎嘎大笑没有时间和精力思考自己那些有的没的……\n是的你叶其实就是这么好糊弄。之前确实也想到了但选错片，边缘行者难受一宿\n最近还吸了人，大概也算体验了普通兄弟该有的社交吧——豆瓣评分一星\n我并不烦他，但他下回约不出来我√\n\n或许今年写个总结？那明天再写吧~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 576,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 339
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014027495335440384"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "2014030481159852195",
+    "created_at": "2026-01-21T17:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014030481159852195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/di6i0oqB54",
+          "end": 166,
+          "expanded_url": "https://x.com/ilobius/status/2014030481159852195/photo/1",
+          "media_key": "3_2014027495335440384",
+          "start": 143,
+          "url": "https://t.co/di6i0oqB54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014030481159852195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了荧妹的新衣服回坑，妹宝可爱！当年就这么入坑的，直到o帮我戒掉了所有游戏，直接干成电子阳痿了\n这次那德卡菜足足做了三天，更是感觉跟上班一样……\n\n一直很喜欢月亮捏。有种淡淡的平静和死感，但又很浪漫！\nbtw，今晚的月色好美。看看窗外吧？\n\n&gt;我时常因为自己玩的梗太老而感到自卑 https://t.co/di6i0oqB54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2014027495335440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NDVhNWsAABbPX.png",
+        "width": 409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014027495335440384"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "2014030481159852195",
+        "created_at": "2026-01-21T17:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014030481159852195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/di6i0oqB54",
+              "end": 166,
+              "expanded_url": "https://x.com/ilobius/status/2014030481159852195/photo/1",
+              "media_key": "3_2014027495335440384",
+              "start": 143,
+              "url": "https://t.co/di6i0oqB54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014030481159852195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了荧妹的新衣服回坑，妹宝可爱！当年就这么入坑的，直到o帮我戒掉了所有游戏，直接干成电子阳痿了\n这次那德卡菜足足做了三天，更是感觉跟上班一样……\n\n一直很喜欢月亮捏。有种淡淡的平静和死感，但又很浪漫！\nbtw，今晚的月色好美。看看窗外吧？\n\n&gt;我时常因为自己玩的梗太老而感到自卑 https://t.co/di6i0oqB54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 601,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 371
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

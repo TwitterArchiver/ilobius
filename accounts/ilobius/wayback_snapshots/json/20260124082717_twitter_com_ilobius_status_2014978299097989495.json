@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2014978299097989495",
+    "created_at": "2026-01-24T08:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T09:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014978299097989495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808604308163940352",
+          "start": 3,
+          "username": "cici20120712"
+        },
+        {
+          "end": 26,
+          "id": "1605554180953104385",
+          "start": 18,
+          "username": "xynmuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014978299097989495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013607617919340588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici20120712: @xynmuxi 问就是把自贡切了煲汤喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2014978299097989495",
+        "created_at": "2026-01-24T08:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014978299097989495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808604308163940352",
+              "start": 3,
+              "username": "cici20120712"
+            },
+            {
+              "end": 26,
+              "id": "1605554180953104385",
+              "start": 18,
+              "username": "xynmuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014978299097989495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013607617919340588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici20120712: @xynmuxi 问就是把自贡切了煲汤喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2013466468814405724",
+        "created_at": "2026-01-20T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013607617919340588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605554180953104385",
+              "start": 0,
+              "username": "xynmuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013607617919340588",
+        "in_reply_to_user_id": "1605554180953104385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10495,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013466468814405724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynmuxi 问就是把自贡切了煲汤喝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 608,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 380
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70736,
+          "following_count": 97,
+          "like_count": 816,
+          "listed_count": 178,
+          "media_count": 680,
+          "tweet_count": 1227
+        },
+        "username": "cici20120712",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T13:22:11.000Z",
+        "description": "Molly二代目 | 降级为MtX | 悠传控股董事长 | 在沪攒钱润去🇨🇦ing 看我攒了多少→https://t.co/6HavZfc8eF| 一只可爱猫娘 | 不管党 | 🦊小wuli：@stellachan0w0 | 🐱@baize27824770 沐汐的蓝粉白公司↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "baize27824770"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "money.cwcu.cn",
+                "end": 72,
+                "expanded_url": "http://money.cwcu.cn",
+                "start": 49,
+                "url": "https://t.co/6HavZfc8eF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yootrans",
+                "end": 23,
+                "expanded_url": "https://x.com/yootrans",
+                "start": 0,
+                "url": "https://t.co/mgxAWdV1p2"
+              }
+            ]
+          }
+        },
+        "id": "1605554180953104385",
+        "location": "zh-sh",
+        "name": "沐汐Moox",
+        "pinned_tweet_id": "2012700527801373167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906897633354174464/iYWCSpXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1588,
+          "like_count": 11918,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4895
+        },
+        "url": "https://t.co/mgxAWdV1p2",
+        "username": "xynmuxi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2001960119568138520",
+    "created_at": "2025-12-19T10:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001960119568138520"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "˗ˋˏ 🫧 第4話ED",
+          "probability": 0.139,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "美胡",
+          "probability": 0.6009,
+          "start": 53,
+          "type": "Person"
+        },
+        {
+          "end": 94,
+          "normalized_text": "ファイルーズあい",
+          "probability": 0.3429,
+          "start": 87,
+          "type": "Person"
+        },
+        {
+          "end": 121,
+          "normalized_text": "太陽、なってあげよっか？♡",
+          "probability": 0.6702,
+          "start": 109,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 128,
+          "tag": "ファイルーズあい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833462112943058944",
+          "start": 3,
+          "username": "wttb_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001960119568138520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981376155119984886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wttb_tv: ˗ˋˏ 🫧 第4話ED主題歌アーティストコメント 🫧 ˎˊ˗\n\n🗣️さらに美胡のことが好きになっていただけたらとても嬉しいです！\n（ by. ファイルーズあい ）\n\n♪第4話ED主題歌「太陽、なってあげよっか？♡」社 美胡（CV:#ファイルーズあい ）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1981376148341764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39DG_BXsAA5t9b.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2001960119568138520",
+        "created_at": "2025-12-19T10:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001960119568138520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "˗ˋˏ 🫧 第4話ED",
+              "probability": 0.139,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "美胡",
+              "probability": 0.6009,
+              "start": 53,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "ファイルーズあい",
+              "probability": 0.3429,
+              "start": 87,
+              "type": "Person"
+            },
+            {
+              "end": 121,
+              "normalized_text": "太陽、なってあげよっか？♡",
+              "probability": 0.6702,
+              "start": 109,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 128,
+              "tag": "ファイルーズあい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833462112943058944",
+              "start": 3,
+              "username": "wttb_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001960119568138520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981376155119984886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wttb_tv: ˗ˋˏ 🫧 第4話ED主題歌アーティストコメント 🫧 ˎˊ˗\n\n🗣️さらに美胡のことが好きになっていただけたらとても嬉しいです！\n（ by. ファイルーズあい ）\n\n♪第4話ED主題歌「太陽、なってあげよっか？♡」社 美胡（CV:#ファイルーズあい ）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981376148341764096"
+          ]
+        },
+        "author_id": "1833462112943058944",
+        "conversation_id": "1981376155119984886",
+        "created_at": "2025-10-23T15:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981376155119984886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "˗ˋˏ 🫧 第4話ED",
+              "probability": 0.1296,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "美胡",
+              "probability": 0.5574,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "ファイルーズあい",
+              "probability": 0.3636,
+              "start": 74,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "太陽、なってあげよっか？♡",
+              "probability": 0.6772,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "社 美胡",
+              "probability": 0.3915,
+              "start": 110,
+              "type": "Person"
+            },
+            {
+              "end": 136,
+              "normalized_text": "安藤紗々",
+              "probability": 0.6248,
+              "start": 133,
+              "type": "Person"
+            },
+            {
+              "end": 143,
+              "normalized_text": "苗川 采",
+              "probability": 0.588,
+              "start": 140,
+              "type": "Person"
+            },
+            {
+              "end": 155,
+              "normalized_text": "神田ジョン",
+              "probability": 0.8837,
+              "start": 151,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 115,
+              "tag": "ファイルーズあい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGFsr4kvPm",
+              "end": 177,
+              "expanded_url": "https://x.com/wttb_tv/status/1981376155119984886/photo/1",
+              "media_key": "3_1981376148341764096",
+              "start": 154,
+              "url": "https://t.co/qGFsr4kvPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981376155119984886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 115,
+                "tag": "ファイルーズあい"
+              },
+              {
+                "end": 189,
+                "start": 180,
+                "tag": "watatabe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lnk.to/watatabe_miko",
+                "end": 178,
+                "expanded_url": "http://lnk.to/watatabe_miko",
+                "start": 155,
+                "url": "https://t.co/ComThzynuw"
+              }
+            ]
+          },
+          "text": "˗ˋˏ 🫧 第4話ED主題歌アーティストコメント 🫧 ˎˊ˗\n\n🗣️さらに美胡のことが好きになっていただけたらとても嬉しいです！\n（ by. ファイルーズあい ）\n\n♪第4話ED主題歌「太陽、なってあげよっか？♡」社 美胡（CV:#ファイルーズあい ）\n作詞：安藤紗々 / 苗川 采\n作曲・編曲：神田ジョン\n🦊https://t.co/ComThzynuw\n\n#watatabe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 73013,
+          "like_count": 1332,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "˗ˋˏ 🫧 第4話ED主題歌アーティストコメント 🫧 ˎˊ˗\n\n🗣️さらに美胡のことが好きになっていただけたらとても嬉しいです！\n（ by. ファイルーズあい ）\n\n♪第4話ED主題歌「太陽、なってあげよっか？♡」社 美胡（CV:#ファイルーズあい ）\n作詞：安藤紗々 / 苗川 采\n作曲・編曲：神田ジョン https://t.co/qGFsr4kvPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 570,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 326
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T11:07:01.000Z",
+        "description": "「私を喰べたい、ひとでなし」2025年10月2日よりTVアニメ放送開始⏳死を望む少女・比名子と、その血肉を求める人魚・汐莉。2人の出会いから始まる、美しくも切ない物語🔖 原作:苗川采 ／アニメーション制作:スタジオリングス／推奨ハッシュタグ: #watatabe🫧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 122,
+                "tag": "watatabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wata-tabe.com",
+                "end": 23,
+                "expanded_url": "https://wata-tabe.com",
+                "start": 0,
+                "url": "https://t.co/kesySp7or9"
+              }
+            ]
+          }
+        },
+        "id": "1833462112943058944",
+        "location": "愛媛県伊予市",
+        "name": "「私を喰べたい、ひとでなし」TVアニメ公式",
+        "pinned_tweet_id": "1999132074259910978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983913295527723008/3RtJBpWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55273,
+          "following_count": 40,
+          "like_count": 2025,
+          "listed_count": 259,
+          "media_count": 803,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/kesySp7or9",
+        "username": "wttb_tv",
+        "verified": true
+      }
+    ]
+  }
+}

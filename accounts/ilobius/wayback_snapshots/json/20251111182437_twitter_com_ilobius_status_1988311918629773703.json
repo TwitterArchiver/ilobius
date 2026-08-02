@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1988311918629773703",
+    "created_at": "2025-11-11T18:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T19:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988311918629773703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988311918629773703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想有一个，能让我随时随地喵喵叫、偶尔发癫嗷呜嗷，还完全不会有损我个人形象的地方啊……\n要是能有事没事咬一口就更好了👉👈\n感觉我上辈子是什么小动物，似乎没有进化完全😇\n半夜还会哭唧唧，但是很嘴硬。白天又会真的超级膨胀，超绝松弛～\n是完全不利于生存的性状呢……\n\n我管你这那的，我没招了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1988311918629773703",
+        "created_at": "2025-11-11T18:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988311918629773703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988311918629773703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想有一个，能让我随时随地喵喵叫、偶尔发癫嗷呜嗷，还完全不会有损我个人形象的地方啊……\n要是能有事没事咬一口就更好了👉👈\n感觉我上辈子是什么小动物，似乎没有进化完全😇\n半夜还会哭唧唧，但是很嘴硬。白天又会真的超级膨胀，超绝松弛～\n是完全不利于生存的性状呢……\n\n我管你这那的，我没招了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 542,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 260
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

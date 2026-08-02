@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1988765462252101725",
+    "created_at": "2025-11-13T15:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988993241174470730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228182902891925510",
+          "start": 0,
+          "username": "v25446116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988993241174470730",
+    "in_reply_to_user_id": "1228182902891925510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988765462252101725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v25446116 开花麦穗热狗肠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988765458946736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mDpeIWQAAZ6tU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1988765462252101725",
+        "created_at": "2025-11-13T15:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988993241174470730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228182902891925510",
+              "start": 0,
+              "username": "v25446116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988993241174470730",
+        "in_reply_to_user_id": "1228182902891925510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988765462252101725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v25446116 开花麦穗热狗肠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988765458946736128"
+          ]
+        },
+        "author_id": "1228182902891925510",
+        "conversation_id": "1988765462252101725",
+        "created_at": "2025-11-13T00:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988765462252101725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qccGSR1gTW",
+              "end": 29,
+              "expanded_url": "https://x.com/v25446116/status/1988765462252101725/photo/1",
+              "media_key": "3_1988765458946736128",
+              "start": 6,
+              "url": "https://t.co/qccGSR1gTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988765462252101725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8245,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "群友如是说 https://t.co/qccGSR1gTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 268
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T05:03:30.000Z",
+        "description": "这个人很懒，什么都没有留下",
+        "id": "1228182902891925510",
+        "location": "异世界",
+        "name": "糖醋米线",
+        "pinned_tweet_id": "1973552670280654990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833479306187874304/KCTJn2o3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28989,
+          "following_count": 34,
+          "like_count": 3020,
+          "listed_count": 89,
+          "media_count": 88,
+          "tweet_count": 1471
+        },
+        "username": "v25446116",
+        "verified": false
+      }
+    ]
+  }
+}

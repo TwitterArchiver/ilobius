@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2021886986802672039",
+    "created_at": "2026-02-12T15:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021964458097356840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021964458097356840",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021886986802672039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 顶尖，头顶尖尖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2021886986802672039",
+        "created_at": "2026-02-12T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021964458097356840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021964458097356840",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021886986802672039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 顶尖，头顶尖尖的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2021886986802672039",
+        "created_at": "2026-02-12T09:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021886986802672039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chunliang2nd/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Chunliang2nd/status/2021879461936083258",
+              "start": 8,
+              "url": "https://t.co/1E734t7Kru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021886986802672039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021879461936083258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那是顶尖男性。 https://t.co/1E734t7Kru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 606,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 393
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。我叫星眠，是半个软件工程师加半个音乐制作人，在努力成为艺术家和技术大佬的路上。不定期推音乐/美术作品，爱好古风。在参加汉服复兴运动。常驻北京，故乡长春，欢迎小女孩们来找我玩。",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 3216,
+          "like_count": 3198,
+          "listed_count": 2,
+          "media_count": 790,
+          "tweet_count": 8606
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

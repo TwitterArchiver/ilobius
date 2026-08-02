@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2007225696779940319",
+    "created_at": "2026-01-03T17:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007499198707708065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1043812040597549056",
+          "start": 0,
+          "username": "_vector_fox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007499198707708065",
+    "in_reply_to_user_id": "1043812040597549056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007225696779940319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vector_fox 我觉得电费没差多少的话，司机可能只是 战斗爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2007225696779940319",
+        "created_at": "2026-01-03T17:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007499198707708065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1043812040597549056",
+              "start": 0,
+              "username": "_vector_fox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007499198707708065",
+        "in_reply_to_user_id": "1043812040597549056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007225696779940319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vector_fox 我觉得电费没差多少的话，司机可能只是 战斗爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043812040597549056",
+        "conversation_id": "2007225696779940319",
+        "created_at": "2026-01-02T23:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T00:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007225696779940319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007225696779940319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 45302,
+          "like_count": 249,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我打车遇到电车会头晕\n\n我要如何告诉网约车司机，把动能回收开到最大，然后一脚油门到底，再完全松开，再到底这样，是非常费电的开法。\n\n学过物理的都知道，任何的能量转化都是有损失的，逻辑上最省电的开法应该是只踩一次油门，从不刹车，滑到终点。\n\n而不是把动能回收开最大，然后不停放电充电循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 580,
+          "like_count": 1773,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 350
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T10:39:18.000Z",
+        "description": "🍮🦊黄狐狸的理想主义是每天都开心做自己❤️",
+        "id": "1043812040597549056",
+        "location": "FoxNest-狐狸窝",
+        "name": "向量_Vector",
+        "pinned_tweet_id": "1910690423494107151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679922272717668352/4sOeluV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14027,
+          "following_count": 506,
+          "like_count": 32182,
+          "listed_count": 26,
+          "media_count": 1449,
+          "tweet_count": 6491
+        },
+        "username": "_vector_fox",
+        "verified": false
+      }
+    ]
+  }
+}

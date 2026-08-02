@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1987881682956177772",
+    "created_at": "2025-11-10T13:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987881682956177772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoiztle/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hoiztle/status/1987405892334330137",
+          "start": 19,
+          "url": "https://t.co/KedybDTKBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987881682956177772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987405892334330137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱也不多贪，V我50就行，管你周几呢 https://t.co/KedybDTKBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_1987405886504284160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SvH8GbsAA4sze.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1987881682956177772",
+        "created_at": "2025-11-10T13:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987881682956177772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoiztle/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hoiztle/status/1987405892334330137",
+              "start": 19,
+              "url": "https://t.co/KedybDTKBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987881682956177772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987405892334330137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱也不多贪，V我50就行，管你周几呢 https://t.co/KedybDTKBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987405886504284160"
+          ]
+        },
+        "author_id": "4747524034",
+        "conversation_id": "1987405892334330137",
+        "created_at": "2025-11-09T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987405892334330137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pT6XHlaira",
+              "end": 23,
+              "expanded_url": "https://x.com/hoiztle/status/1987405892334330137/photo/1",
+              "media_key": "3_1987405886504284160",
+              "start": 0,
+              "url": "https://t.co/pT6XHlaira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987405892334330137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1912,
+          "impression_count": 1238000,
+          "like_count": 86944,
+          "quote_count": 376,
+          "reply_count": 318,
+          "retweet_count": 23019
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pT6XHlaira"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 540,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 255
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-08T19:56:36.000Z",
+        "description": "",
+        "id": "4747524034",
+        "name": "Lica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976231035244511233/at9K7ghe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 709,
+          "like_count": 6355,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 6459
+        },
+        "username": "hoiztle",
+        "verified": true
+      }
+    ]
+  }
+}

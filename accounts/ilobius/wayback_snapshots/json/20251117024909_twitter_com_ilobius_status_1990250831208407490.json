@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990031069098504192"
+      ],
+      "media_source_tweet_id": [
+        "1990031071715688943"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1990250831208407490",
+    "created_at": "2025-11-17T02:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990250831208407490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "931934663198703616",
+          "start": 3,
+          "username": "1234566nya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liaHBgwK1B",
+          "end": 50,
+          "expanded_url": "https://x.com/1234566nya/status/1990031071715688943/photo/1",
+          "media_key": "3_1990031069098504192",
+          "start": 27,
+          "url": "https://t.co/liaHBgwK1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990250831208407490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990031071715688943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1234566nya: 完事了身上粘了俩电阻 https://t.co/liaHBgwK1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_1990031069098504192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54CtrWbcAAQ-tU.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990031069098504192"
+          ],
+          "media_source_tweet_id": [
+            "1990031071715688943"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1990250831208407490",
+        "created_at": "2025-11-17T02:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990250831208407490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "931934663198703616",
+              "start": 3,
+              "username": "1234566nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liaHBgwK1B",
+              "end": 50,
+              "expanded_url": "https://x.com/1234566nya/status/1990031071715688943/photo/1",
+              "media_key": "3_1990031069098504192",
+              "start": 27,
+              "url": "https://t.co/liaHBgwK1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990250831208407490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990031071715688943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1234566nya: 完事了身上粘了俩电阻 https://t.co/liaHBgwK1B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990031069098504192"
+          ]
+        },
+        "author_id": "931934663198703616",
+        "conversation_id": "1990031071715688943",
+        "created_at": "2025-11-16T12:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990031071715688943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liaHBgwK1B",
+              "end": 34,
+              "expanded_url": "https://x.com/1234566nya/status/1990031071715688943/photo/1",
+              "media_key": "3_1990031069098504192",
+              "start": 11,
+              "url": "https://t.co/liaHBgwK1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990031071715688943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 32369,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "完事了身上粘了俩电阻 https://t.co/liaHBgwK1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 278
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "肉夹馍受害者 | 互联网生土豆 | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "FTMiaoX"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "发条喵家的笼子里",
+        "name": "PoTAToOOOO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989477480164724740/lfCnH8JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 679,
+          "like_count": 13231,
+          "listed_count": 9,
+          "media_count": 483,
+          "tweet_count": 2777
+        },
+        "username": "1234566nya",
+        "verified": false
+      }
+    ]
+  }
+}

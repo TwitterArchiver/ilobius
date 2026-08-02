@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2001480485873291439",
+    "created_at": "2025-12-18T02:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T03:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001480485873291439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "776961507917639681",
+          "start": 3,
+          "username": "tingyun97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001480485873291439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001102081982423366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingyun97: 千万不要因为长期没联系某个朋友而内疚 因为他也没联系你啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2001480485873291439",
+        "created_at": "2025-12-18T02:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001480485873291439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "776961507917639681",
+              "start": 3,
+              "username": "tingyun97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001480485873291439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001102081982423366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingyun97: 千万不要因为长期没联系某个朋友而内疚 因为他也没联系你啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "776961507917639681",
+        "conversation_id": "2001102081982423366",
+        "created_at": "2025-12-17T01:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T02:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001102081982423366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001102081982423366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 129927,
+          "like_count": 1331,
+          "quote_count": 7,
+          "reply_count": 41,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "千万不要因为长期没联系某个朋友而内疚 因为他也没联系你啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 569,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 325
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-17T01:50:33.000Z",
+        "description": "一生負氣成今日 四海無人對夕陽",
+        "id": "776961507917639681",
+        "location": "北平",
+        "name": "停雲",
+        "pinned_tweet_id": "1245338957363195906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959168888891117568/9aZARp5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133486,
+          "following_count": 2109,
+          "like_count": 41457,
+          "listed_count": 458,
+          "media_count": 34641,
+          "tweet_count": 64403
+        },
+        "username": "tingyun97",
+        "verified": true
+      }
+    ]
+  }
+}

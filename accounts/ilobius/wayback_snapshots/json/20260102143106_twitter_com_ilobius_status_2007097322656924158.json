@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2007097322656924158",
+    "created_at": "2026-01-02T14:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007097322656924158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/watanare_anime…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/watanare_anime/status/2007045013876994060",
+          "start": 7,
+          "url": "https://t.co/Cv1F56oPHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007097322656924158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007045013876994060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牡蛎莫牡蛎~ https://t.co/Cv1F56oPHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2007044964405170176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9p0wuebUAAyq5O.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2007097322656924158",
+        "created_at": "2026-01-02T14:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007097322656924158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/watanare_anime…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/watanare_anime/status/2007045013876994060",
+              "start": 7,
+              "url": "https://t.co/Cv1F56oPHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007097322656924158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007045013876994060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牡蛎莫牡蛎~ https://t.co/Cv1F56oPHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007044964405170176"
+          ]
+        },
+        "author_id": "1839128028481466369",
+        "conversation_id": "2007045013876994060",
+        "created_at": "2026-01-02T11:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007045013876994060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 109,
+              "normalized_text": "真唯",
+              "probability": 0.7025,
+              "start": 108,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "わたなれアニメ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9GVXsm3kE",
+              "end": 176,
+              "expanded_url": "https://x.com/watanare_anime/status/2007045013876994060/photo/1",
+              "media_key": "3_2007044964405170176",
+              "start": 153,
+              "url": "https://t.co/N9GVXsm3kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007045013876994060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 114049,
+          "like_count": 7427,
+          "quote_count": 56,
+          "reply_count": 38,
+          "retweet_count": 1433
+        },
+        "reply_settings": "everyone",
+        "text": "#わたなれアニメ 🎀 全17話\nご視聴ありがとうございました🩷\n◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠\n\n元旦の放送は楽しんでいただけましたか？🐨\n御礼に4K壁紙をプレゼント!!🎁\n\n📸[れな子・真唯・紫陽花]\n\n続編5話の配信はまもなく【1/4(日)午前3:30】から各配信サイトで順次開始✨ https://t.co/N9GVXsm3kE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 577,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 348
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T02:21:21.000Z",
+        "description": "TVアニメ『わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）』#わたなれ のアニメ公式アカウントです。 推奨ハッシュタグ「#わたなれアニメ」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "わたなれ"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "tag": "わたなれアニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "watanare-anime.com",
+                "end": 23,
+                "expanded_url": "http://watanare-anime.com",
+                "start": 0,
+                "url": "https://t.co/HmKkCL0nes"
+              }
+            ]
+          }
+        },
+        "id": "1839128028481466369",
+        "name": "【公式】わたなれ｜わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）",
+        "pinned_tweet_id": "2006436647228018940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970163527915884544/aC8ohMoV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119967,
+          "following_count": 32,
+          "like_count": 2406,
+          "listed_count": 379,
+          "media_count": 719,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/HmKkCL0nes",
+        "username": "watanare_anime",
+        "verified": true
+      }
+    ]
+  }
+}

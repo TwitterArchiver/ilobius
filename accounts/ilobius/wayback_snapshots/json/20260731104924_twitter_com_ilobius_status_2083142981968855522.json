@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083113949286093142",
+    "created_at": "2026-07-31T10:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083142981968855522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083142981968855522",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083113949286093142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083113949286093142",
+        "created_at": "2026-07-31T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083142981968855522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083142981968855522",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083113949286093142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2083113949286093142",
+        "created_at": "2026-07-31T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083113949286093142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083113949286093142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真不知道该怎么办了\n如果说，自己pass不了的话，还有必要继续吃糖和srs吗\n现在每次看到自己的脸就感觉好恶心，不想再看第二眼\n也许我当初就不应该吃糖，就应该伪装成一个顺直男活着\n毕竟这个身高和骨架，即使srs之后，我也有很大可能没法被当成女的\n唉，我身上的debuff真是叠满了\n好累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 437,
+          "like_count": 2810,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "是1米9超大只天残党Mtf喵\nHRT时间：2026.4.1\n同类快来互fo喵，不过不怎么上推所以发私信可能来不及回复喵，抱歉喵\n恋人：@Asexuality94927",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "Asexuality94927"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059092364560596992/pm1ZJ7st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 553,
+          "like_count": 133,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Wanda12300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993179176556544003"
+      ],
+      "media_source_tweet_id": [
+        "1993179182831222824"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1993377158698594393",
+    "created_at": "2025-11-25T17:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993377158698594393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1695387071911956480",
+          "start": 3,
+          "username": "Vocaloid4GUMI"
+        },
+        {
+          "end": 31,
+          "id": "1537447121745747968",
+          "start": 19,
+          "username": "shaoguanwo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BWqFaKw2i6",
+          "end": 69,
+          "expanded_url": "https://x.com/Vocaloid4GUMI/status/1993179182831222824/photo/1",
+          "media_key": "3_1993179176556544003",
+          "start": 46,
+          "url": "https://t.co/BWqFaKw2i6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993377158698594393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993179182831222824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vocaloid4GUMI: @shaoguanwo_ 君子生非异也，善假于物也。 https://t.co/BWqFaKw2i6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1993179176556544003",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kx5phbwAMrwyJ.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993179176556544003"
+          ],
+          "media_source_tweet_id": [
+            "1993179182831222824"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1993377158698594393",
+        "created_at": "2025-11-25T17:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993377158698594393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1695387071911956480",
+              "start": 3,
+              "username": "Vocaloid4GUMI"
+            },
+            {
+              "end": 31,
+              "id": "1537447121745747968",
+              "start": 19,
+              "username": "shaoguanwo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWqFaKw2i6",
+              "end": 69,
+              "expanded_url": "https://x.com/Vocaloid4GUMI/status/1993179182831222824/photo/1",
+              "media_key": "3_1993179176556544003",
+              "start": 46,
+              "url": "https://t.co/BWqFaKw2i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993377158698594393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993179182831222824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vocaloid4GUMI: @shaoguanwo_ 君子生非异也，善假于物也。 https://t.co/BWqFaKw2i6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993179176556544003"
+          ]
+        },
+        "author_id": "1695387071911956480",
+        "conversation_id": "1992995872817528838",
+        "created_at": "2025-11-25T04:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993179182831222824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537447121745747968",
+              "start": 0,
+              "username": "shaoguanwo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWqFaKw2i6",
+              "end": 50,
+              "expanded_url": "https://x.com/Vocaloid4GUMI/status/1993179182831222824/photo/1",
+              "media_key": "3_1993179176556544003",
+              "start": 27,
+              "url": "https://t.co/BWqFaKw2i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993179182831222824",
+        "in_reply_to_user_id": "1537447121745747968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15283,
+          "like_count": 419,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992995872817528838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoguanwo_ 君子生非异也，善假于物也。 https://t.co/BWqFaKw2i6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 554,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 294
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T10:46:16.000Z",
+        "description": "网络状态不佳，网络连接中断，对局中止。",
+        "id": "1695387071911956480",
+        "location": "Rechlin, Deutschland",
+        "name": "一般路过安东星人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695491532076580864/n9o3Cl3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 186,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 568
+        },
+        "username": "Vocaloid4GUMI",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T14:49:01.000Z",
+        "description": "4i＞1i ｜有男朋友｜在学中文的越南🇻🇳人，当朋友圈发｜平平无奇的小九 慢热 社恐。https://t.co/POPlgbJt6G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sjiuu_1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/sjiuu_1",
+                "start": 43,
+                "url": "https://t.co/POPlgbJt6G"
+              }
+            ]
+          }
+        },
+        "id": "1537447121745747968",
+        "name": "小九",
+        "pinned_tweet_id": "1893963747913593052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563191461197230087/FSkP8VGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12555,
+          "following_count": 360,
+          "like_count": 5468,
+          "listed_count": 26,
+          "media_count": 309,
+          "tweet_count": 17389
+        },
+        "username": "shaoguanwo_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2014038808489054398",
+    "created_at": "2026-01-21T18:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014038808489054398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014038808489054398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近情绪好像真的很稳定……没有很激动的时候，也没有很想似的时候，就整体是一种淡淡的死寂。也不知道是好事还是坏事。不过至少，我现在几乎没有什么东西可以写。\n对未来的忧虑也几乎消失了，明明问题悬而未决，但就是不在心上了。难道我对现在这种生活还挺满意的？我倒也不觉得，但我也说不清楚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2014038808489054398",
+        "created_at": "2026-01-21T18:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014038808489054398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014038808489054398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近情绪好像真的很稳定……没有很激动的时候，也没有很想似的时候，就整体是一种淡淡的死寂。也不知道是好事还是坏事。不过至少，我现在几乎没有什么东西可以写。\n对未来的忧虑也几乎消失了，明明问题悬而未决，但就是不在心上了。难道我对现在这种生活还挺满意的？我倒也不觉得，但我也说不清楚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／ \n退役魔法少女的细碎日常 ／ \n不要关注不要关注不要关注 ／ \n被熟人抓到请私聊我。小叶爱你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 601,
+          "like_count": 1901,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 370
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

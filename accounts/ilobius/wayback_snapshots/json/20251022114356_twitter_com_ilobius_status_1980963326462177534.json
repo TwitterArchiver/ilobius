@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1980963326462177534",
+    "created_at": "2025-10-22T11:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980963326462177534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555961306913689600",
+          "start": 3,
+          "username": "3C3AHuangYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980963326462177534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980696020867801486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3C3AHuangYou: 我到大三才知道 原来这世上大多数人活着并不需要意义 不需要不停的解构分析自身 不需要不停的探索精神世界 不需要建立对人际关系的分析预测模型 不需要辨析事物事件之间的底层原理 不需要不停的学习接受并分析新知识并将其整合进体系内\n单纯的依赖 经验…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1980963326462177534",
+        "created_at": "2025-10-22T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980963326462177534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555961306913689600",
+              "start": 3,
+              "username": "3C3AHuangYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980963326462177534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980696020867801486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3C3AHuangYou: 我到大三才知道 原来这世上大多数人活着并不需要意义 不需要不停的解构分析自身 不需要不停的探索精神世界 不需要建立对人际关系的分析预测模型 不需要辨析事物事件之间的底层原理 不需要不停的学习接受并分析新知识并将其整合进体系内\n单纯的依赖 经验…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555961306913689600",
+        "conversation_id": "1980696020867801486",
+        "created_at": "2025-10-21T18:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980696020867801486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980696020867801486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 28298,
+          "like_count": 571,
+          "quote_count": 12,
+          "reply_count": 41,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "我到大三才知道 原来这世上大多数人活着并不需要意义 不需要不停的解构分析自身 不需要不停的探索精神世界 不需要建立对人际关系的分析预测模型 不需要辨析事物事件之间的底层原理 不需要不停的学习接受并分析新知识并将其整合进体系内\n单纯的依赖 经验 与 神经反射 就能自由的愉悦的伤害着他人的活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 508,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 230
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝                                                                                                我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6703,
+          "following_count": 2672,
+          "like_count": 139310,
+          "listed_count": 11,
+          "media_count": 1646,
+          "tweet_count": 25262
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      }
+    ]
+  }
+}

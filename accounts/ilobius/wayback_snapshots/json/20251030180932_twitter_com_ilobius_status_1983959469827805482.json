@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1983959469827805482",
+    "created_at": "2025-10-30T18:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983959469827805482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/hsn8086/status/1983753983757062350",
+          "start": 59,
+          "url": "https://t.co/Ud2Rz9jtjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983959469827805482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983753983757062350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并非，前天喝了微甜，感觉像喝了一口很厚的芝士蛋糕？\n搅匀之后就没什么味道，一般好喝，不会再买\n鹿啊，多上点好喝的行吗 https://t.co/Ud2Rz9jtjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1983753975544643584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4e1uvobgAAi3Eh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1983959469827805482",
+        "created_at": "2025-10-30T18:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983959469827805482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/hsn8086/status/1983753983757062350",
+              "start": 59,
+              "url": "https://t.co/Ud2Rz9jtjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983959469827805482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983753983757062350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非，前天喝了微甜，感觉像喝了一口很厚的芝士蛋糕？\n搅匀之后就没什么味道，一般好喝，不会再买\n鹿啊，多上点好喝的行吗 https://t.co/Ud2Rz9jtjB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983753975544643584"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1983753983757062350",
+        "created_at": "2025-10-30T04:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983753983757062350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhxrBZx6ic",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1983753983757062350/photo/1",
+              "media_key": "3_1983753975544643584",
+              "start": 0,
+              "url": "https://t.co/BhxrBZx6ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983753983757062350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 761693,
+          "like_count": 2185,
+          "quote_count": 28,
+          "reply_count": 97,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BhxrBZx6ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 524,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 244
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105017,
+          "following_count": 988,
+          "like_count": 45828,
+          "listed_count": 233,
+          "media_count": 16942,
+          "tweet_count": 24983
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

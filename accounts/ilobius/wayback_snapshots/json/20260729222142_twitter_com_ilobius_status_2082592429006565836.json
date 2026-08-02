@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082552521160352046",
+    "created_at": "2026-07-29T22:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082592429006565836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082592429006565836",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082552521160352046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 这位是著名言论“理工跨是男跨”创始人，说什么都不奇怪😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082552521160352046",
+        "created_at": "2026-07-29T22:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082592429006565836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082592429006565836",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082552521160352046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 这位是著名言论“理工跨是男跨”创始人，说什么都不奇怪😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082552521160352046",
+        "created_at": "2026-07-29T19:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082552521160352046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2082349791850455153",
+              "start": 129,
+              "url": "https://t.co/g4vs6Kg3zX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082552521160352046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082349791850455153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不擅自开除同类跨籍从你我做起，这样多多少少有点不尊重别人的性别认同了，并不是所有的跨儿都想要反抗规范，通过“是否反抗规范”来界定对方的行为本就是另一种意义上的规范\n\n还有就是，我对生育后代没有什么想法，只是偶尔会有想当妈妈的想法，请不要认为我是在对立立场的 https://t.co/g4vs6Kg3zX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 479,
+          "like_count": 2730,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 697,
+          "like_count": 4675,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1333
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

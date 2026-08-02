@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2005279631579259074",
+    "created_at": "2025-12-28T14:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005279631579259074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1311649939697537024",
+          "start": 3,
+          "username": "nauru_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005279631579259074",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005257024628830559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nauru_japan: ┏━┛┃\n┗━┓┃┏━━┓┏━━┓┏━━┓\n┏━┛┃┃┏┓┃┗━┓┃┃┏━┛\n┗━━┛┃┃┃┃┏━┛┃┃┗━┓\n┏━━┓┃┃┃┃┃┏━┛┃┏┓┃\n┗━┓┃┃┗┛┃┃┗━┓┃┗┛┃\n┏━┛┃┗━━┛┗━━┛┗━━┛\n┃┏━┛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2005279631579259074",
+        "created_at": "2025-12-28T14:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005279631579259074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1311649939697537024",
+              "start": 3,
+              "username": "nauru_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005279631579259074",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005257024628830559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nauru_japan: ┏━┛┃\n┗━┓┃┏━━┓┏━━┓┏━━┓\n┏━┛┃┃┏┓┃┗━┓┃┃┏━┛\n┗━━┛┃┃┃┃┏━┛┃┃┗━┓\n┏━━┓┃┃┃┃┃┏━┛┃┏┓┃\n┗━┓┃┃┗┛┃┃┗━┓┃┗┛┃\n┏━┛┃┗━━┛┗━━┛┗━━┛\n┃┏━┛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311649939697537024",
+        "conversation_id": "2005257024628830559",
+        "created_at": "2025-12-28T12:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005257024628830559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005257024628830559",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 100669,
+          "like_count": 4724,
+          "quote_count": 61,
+          "reply_count": 105,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "┏━┛┃\n┗━┓┃┏━━┓┏━━┓┏━━┓\n┏━┛┃┃┏┓┃┗━┓┃┃┏━┛\n┗━━┛┃┃┃┃┏━┛┃┃┗━┓\n┏━━┓┃┃┃┃┃┏━┛┃┏┓┃\n┗━┓┃┃┗┛┃┃┗━┓┃┗┛┃\n┏━┛┃┗━━┛┗━━┛┗━━┛\n┃┏━┛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 579,
+          "like_count": 1714,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 340
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T12:51:57.000Z",
+        "description": "ナウル共和国政府観光局の公式🇳🇷総人口 約一万人の南太平洋の国🇳🇷フォロバ100%（時間かかります）🇳🇷#ナウルが名売る #ナウラー #ナウルなう #ありが島ナウル島 #気にナウル 🇳🇷 https://t.co/6wQ8XtSZD5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "ナウルが名売る"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ナウラー"
+              },
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "ナウルなう"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "tag": "ありが島ナウル島"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "気にナウル"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@nauru_japan?f…",
+                "end": 117,
+                "expanded_url": "https://youtube.com/@nauru_japan?feature=shared",
+                "start": 94,
+                "url": "https://t.co/6wQ8XtSZD5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nauru.jp",
+                "end": 23,
+                "expanded_url": "https://nauru.jp",
+                "start": 0,
+                "url": "https://t.co/TQc8laVe6E"
+              }
+            ]
+          }
+        },
+        "id": "1311649939697537024",
+        "location": "ナウル共和国",
+        "name": "ナウル共和国政府観光局（公式）",
+        "pinned_tweet_id": "2004086369191358582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423121894488768524/F5GjgfMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589165,
+          "following_count": 373467,
+          "like_count": 121999,
+          "listed_count": 1475,
+          "media_count": 4309,
+          "tweet_count": 57084
+        },
+        "url": "https://t.co/TQc8laVe6E",
+        "username": "nauru_japan",
+        "verified": true
+      }
+    ]
+  }
+}

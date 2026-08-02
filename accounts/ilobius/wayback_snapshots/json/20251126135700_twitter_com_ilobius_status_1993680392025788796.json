@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1993680392025788796",
+    "created_at": "2025-11-26T13:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T14:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993680392025788796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993680392025788796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求解本人的用户画像啊\n那边发短信说补佳乐便宜了\n这边推视频说毓婷30分钟送达\n之前优思明/优思悦也总推给我\n奶糖派也是咔咔推\n\n我真求你了 我都不知道求谁…………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1993680392025788796",
+        "created_at": "2025-11-26T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993680392025788796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993680392025788796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求解本人的用户画像啊\n那边发短信说补佳乐便宜了\n这边推视频说毓婷30分钟送达\n之前优思明/优思悦也总推给我\n奶糖派也是咔咔推\n\n我真求你了 我都不知道求谁…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 559,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 298
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

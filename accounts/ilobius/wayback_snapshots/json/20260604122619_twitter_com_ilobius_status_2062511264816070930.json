@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2062510740637139247",
+    "created_at": "2026-06-04T12:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062511264816070930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062511264816070930",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062510740637139247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 最素幻想❌\n醉宿幻想✅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2062510736916787201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ClmtasAEMqNw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1757,
+        "media_key": "3_2062510737952845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ClqkbsAAZriH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2062510740637139247",
+        "created_at": "2026-06-04T12:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062511264816070930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511264816070930",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062510740637139247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 最素幻想❌\n醉宿幻想✅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062510736916787201",
+            "3_2062510737952845824"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062510740637139247",
+        "created_at": "2026-06-04T12:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062510740637139247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfA5C4jizy",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+              "media_key": "3_2062510736916787201",
+              "start": 32,
+              "url": "https://t.co/zfA5C4jizy"
+            },
+            {
+              "display_url": "pic.x.com/zfA5C4jizy",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+              "media_key": "3_2062510737952845824",
+              "start": 32,
+              "url": "https://t.co/zfA5C4jizy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510740637139247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素子帅帅的，素子帅帅的，素子帅帅的，素子是猛t，素子可以当抖s https://t.co/zfA5C4jizy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "此路不通，请你掉头。\n会在这里定期更新最近推介的饮品：\n#冰镇杨梅瑞纳冰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "冰镇杨梅瑞纳冰"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 538,
+          "like_count": 11466,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3072
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

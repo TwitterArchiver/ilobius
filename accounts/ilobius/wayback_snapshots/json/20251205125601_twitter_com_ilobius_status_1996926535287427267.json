@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1996926535287427267",
+    "created_at": "2025-12-05T12:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996926535287427267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996926535287427267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996723553417232388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 你踏马给我清醒一点，你是一名旅行者，是提瓦特最崇高的个体，你正在被「命运的织机」计划洗脑，你在用深渊力量毁了自己的身体，自己的未来，你小子给我振作起来，立刻开始停用虚界力，并开始人界力和光界力训练"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1996926535287427267",
+        "created_at": "2025-12-05T12:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996926535287427267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996926535287427267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996723553417232388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 你踏马给我清醒一点，你是一名旅行者，是提瓦特最崇高的个体，你正在被「命运的织机」计划洗脑，你在用深渊力量毁了自己的身体，自己的未来，你小子给我振作起来，立刻开始停用虚界力，并开始人界力和光界力训练"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1996723553417232388",
+        "created_at": "2025-12-04T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996723553417232388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baiyuewww/stat…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/baiyuewww/status/1996427420963143930",
+              "start": 99,
+              "url": "https://t.co/C94pSnDH5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996723553417232388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996427420963143930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你踏马给我清醒一点，你是一名旅行者，是提瓦特最崇高的个体，你正在被「命运的织机」计划洗脑，你在用深渊力量毁了自己的身体，自己的未来，你小子给我振作起来，立刻开始停用虚界力，并开始人界力和光界力训练 https://t.co/C94pSnDH5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我。我喜欢你。",
+        "id": "1141910274594619392",
+        "location": "魔法部",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 570,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 314
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 239,
+          "like_count": 64191,
+          "listed_count": 7,
+          "media_count": 801,
+          "tweet_count": 12077
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

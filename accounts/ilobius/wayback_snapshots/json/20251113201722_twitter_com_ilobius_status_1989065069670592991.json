@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1989064280931725647",
+    "created_at": "2025-11-13T20:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T21:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989065069670592991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989065069670592991",
+    "in_reply_to_user_id": "1141910274594619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989064280931725647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但我有养一只小猫哦。\n也是很荣幸找到了性格非常好的那种，会无时无刻来找你贴贴，从来没给我找过麻烦。但同时呢，他也完全不吃鱼，有过尿闭，上厕所不埋！但我觉得已经很好啦！毕竟本来就很好，而且是我养的。\n别的不敢说，在他小小的生命里，我还是很有自信，能给他世界上所有的美好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1989064280931725647",
+        "created_at": "2025-11-13T20:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T21:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989065069670592991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989065069670592991",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989064280931725647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但我有养一只小猫哦。\n也是很荣幸找到了性格非常好的那种，会无时无刻来找你贴贴，从来没给我找过麻烦。但同时呢，他也完全不吃鱼，有过尿闭，上厕所不埋！但我觉得已经很好啦！毕竟本来就很好，而且是我养的。\n别的不敢说，在他小小的生命里，我还是很有自信，能给他世界上所有的美好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1989064280931725647",
+        "created_at": "2025-11-13T20:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T21:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989064280931725647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hui_0024/statu…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/hui_0024/status/1988499592959451507",
+              "start": 100,
+              "url": "https://t.co/dSMFfsKb94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989064280931725647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988499592959451507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以害怕的人根本不敢开始，甚至可以压过自己的生理本能。\n所以完全理解开放性关系，性爱解耦不用担责，只进入身体，不进入生活。进入彼此的日常生活这件事，对我来说，还是太冒犯了……\n说归说，我个人不敢。😇 https://t.co/dSMFfsKb94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 543,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 271
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

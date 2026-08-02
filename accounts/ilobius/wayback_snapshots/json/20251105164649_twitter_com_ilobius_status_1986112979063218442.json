@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1986109386444673436",
+    "created_at": "2025-11-05T16:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986112979063218442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986112979063218442",
+    "in_reply_to_user_id": "1141910274594619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986109386444673436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶，突发奇想修好了！我是天才喵哈哈\n说白了依旧糊弄 只不过落在我可以接受的阈值了\n就这样吧，生活没有那么多观众，那么严肃干嘛捏~\nJust chill🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1986109386444673436",
+        "created_at": "2025-11-05T16:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986112979063218442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986112979063218442",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986109386444673436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶，突发奇想修好了！我是天才喵哈哈\n说白了依旧糊弄 只不过落在我可以接受的阈值了\n就这样吧，生活没有那么多观众，那么严肃干嘛捏~\nJust chill🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1986109386444673436",
+        "created_at": "2025-11-05T16:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986109386444673436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986109386444673436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有笨比修眉毛手滑了……现在是绝赞高低眉\n那我只能这周把刘海全放下来了 喵的\n日常就是这样 主打一个你糊弄我我糊弄你 就完事了🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 533,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 251
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

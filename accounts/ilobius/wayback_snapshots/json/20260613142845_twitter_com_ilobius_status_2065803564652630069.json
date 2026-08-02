@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2065801634605826086",
+    "created_at": "2026-06-13T14:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065803564652630069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065803564652630069",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065801634605826086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 跟素老师走在一起 一直被视奸~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_2065801630310920194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKszoz8a8AIlKhW.jpg",
+        "width": 975
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2065801630973566976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKszo2aaIAA1Voa.jpg",
+        "width": 1592
+      },
+      {
+        "height": 1434,
+        "media_key": "3_2065801632072560640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKszo6gbcAAKGQP.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2065801634605826086",
+        "created_at": "2026-06-13T14:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065803564652630069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065803564652630069",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065801634605826086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 跟素老师走在一起 一直被视奸~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065801630310920194",
+            "3_2065801630973566976",
+            "3_2065801632072560640"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2065801634605826086",
+        "created_at": "2026-06-13T14:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065801634605826086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y0Cj9SpJp",
+              "end": 74,
+              "expanded_url": "https://x.com/ciyou9443/status/2065801634605826086/photo/1",
+              "media_key": "3_2065801630310920194",
+              "start": 51,
+              "url": "https://t.co/0y0Cj9SpJp"
+            },
+            {
+              "display_url": "pic.x.com/0y0Cj9SpJp",
+              "end": 74,
+              "expanded_url": "https://x.com/ciyou9443/status/2065801634605826086/photo/1",
+              "media_key": "3_2065801630973566976",
+              "start": 51,
+              "url": "https://t.co/0y0Cj9SpJp"
+            },
+            {
+              "display_url": "pic.x.com/0y0Cj9SpJp",
+              "end": 74,
+              "expanded_url": "https://x.com/ciyou9443/status/2065801634605826086/photo/1",
+              "media_key": "3_2065801632072560640",
+              "start": 51,
+              "url": "https://t.co/0y0Cj9SpJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065801634605826086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在舞萌机附近逛街找小南梁的时候被问，姐姐你是做自媒体的吗\n这身是迷上某个cos，在衣橱里翻出来的自设 https://t.co/0y0Cj9SpJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "此路不通，请你掉头。\n神乐坂家族遗孤。\n时令更新饮品推介：#荔枝冰奶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "荔枝冰奶"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "location": "并非此间的生命体",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 556,
+          "like_count": 11863,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 3219
+        },
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

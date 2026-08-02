@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082162299058667976",
+    "created_at": "2026-07-30T03:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082666767248502961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        },
+        {
+          "end": 29,
+          "id": "2046283772455485440",
+          "start": 13,
+          "username": "AubreyCamilleuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082666767248502961",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082347148138385435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 @AubreyCamilleuu kr老师永远不会让人失望🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082162299058667976",
+        "created_at": "2026-07-30T03:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082666767248502961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            },
+            {
+              "end": 29,
+              "id": "2046283772455485440",
+              "start": 13,
+              "username": "AubreyCamilleuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082666767248502961",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082347148138385435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 @AubreyCamilleuu kr老师永远不会让人失望🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2082162299058667976",
+        "created_at": "2026-07-29T06:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082347148138385435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082347148138385435",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 828,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082162299058667976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu 我是男生，我会团结其他男生把救援人员打一顿，然后带领所有男生率先撤离，男的绝不给社会兜底"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 488,
+          "like_count": 2757,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28096,
+          "following_count": 4263,
+          "like_count": 10541,
+          "listed_count": 107,
+          "media_count": 1766,
+          "tweet_count": 24345
+        },
+        "url": "",
+        "username": "nande198900",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "跨女宝宝们请跟我玩。",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 177,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

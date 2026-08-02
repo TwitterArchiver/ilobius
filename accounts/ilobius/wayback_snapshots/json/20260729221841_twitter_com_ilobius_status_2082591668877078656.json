@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082518669993853425",
+    "created_at": "2026-07-29T22:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082591668877078656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082591668877078656",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082518669993853425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 首先排除广电，因为这家不能写esim"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082518669993853425",
+        "created_at": "2026-07-29T22:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082591668877078656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082591668877078656",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082518669993853425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 首先排除广电，因为这家不能写esim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2082518668316172288"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082518669993853425",
+        "created_at": "2026-07-29T17:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082518669993853425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082518669993853425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 990,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推友们喜欢哪家运营商的宽带呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 479,
+          "like_count": 2730,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 891,
+          "like_count": 10058,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 1960
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

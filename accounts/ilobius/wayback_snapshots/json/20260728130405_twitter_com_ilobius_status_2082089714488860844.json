@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2081713902627553567",
+    "created_at": "2026-07-28T13:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082089714488860844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082089714488860844",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081713902627553567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 茶Π秘诀之颜色越浅的口味越好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2081713902627553567",
+        "created_at": "2026-07-28T13:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082089714488860844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082089714488860844",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713902627553567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 茶Π秘诀之颜色越浅的口味越好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2081713902627553567",
+        "created_at": "2026-07-27T12:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081713902627553567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/irosas_xyn/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/irosas_xyn/status/2081712498252902572",
+              "start": 11,
+              "url": "https://t.co/Mq8nAQlhaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081713902627553567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1447,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081712498252902572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意居然这么好喝😋 https://t.co/Mq8nAQlhaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 454,
+          "like_count": 2688,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜les｜区｜出厂日期11.05.12｜🍥26.04.30｜无证含糖｜不键政不OD｜休学ing｜182cm😭 BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\n同类会尽力回fo除非白号\n匿名提问喵https://t.co/gIYkKuCa8q\n给我私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 144,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 121,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 326,
+          "like_count": 1043,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/4Ea9D5x42k",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

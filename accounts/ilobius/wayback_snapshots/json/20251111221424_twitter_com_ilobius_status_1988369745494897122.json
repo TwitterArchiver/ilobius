@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1988369745494897122",
+    "created_at": "2025-11-11T22:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T23:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988369745494897122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988369745494897122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……是时候睡觉强制关机了\n有种想现学一个在床头缢死的冲动\n每到这个时候都不止是触景生情的问题了，主打一个精神状态就是碎玻璃……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1988369745494897122",
+        "created_at": "2025-11-11T22:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988369745494897122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988369745494897122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……是时候睡觉强制关机了\n有种想现学一个在床头缢死的冲动\n每到这个时候都不止是触景生情的问题了，主打一个精神状态就是碎玻璃……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／\n退役魔法少女的细碎日常 ／\n不要关注不要关注不要关注 ／\n被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 542,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 261
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

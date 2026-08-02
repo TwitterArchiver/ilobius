@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082670258213867782",
+    "created_at": "2026-07-30T10:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082768676328231145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1117281463710277633",
+          "start": 0,
+          "username": "utashimoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082768676328231145",
+    "in_reply_to_user_id": "1117281463710277633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082670258213867782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utashimoshi 虽然有黄瓜 但看着好好吃🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082670258213867782].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082670258213867782",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082670258213867782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082670258213867782",
+        "created_at": "2026-07-30T10:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082768676328231145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1117281463710277633",
+              "start": 0,
+              "username": "utashimoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082768676328231145",
+        "in_reply_to_user_id": "1117281463710277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082670258213867782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utashimoshi 虽然有黄瓜 但看着好好吃🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 468,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-14T04:20:33.000Z",
+        "description": "有个很可爱的人，正在读我的简介/infp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BlossomCourt",
+                "end": 23,
+                "expanded_url": "http://t.me/BlossomCourt",
+                "start": 0,
+                "url": "https://t.co/3M3AxHeYqv"
+              }
+            ]
+          }
+        },
+        "id": "1117281463710277633",
+        "location": "御花会",
+        "name": "诗霜子",
+        "pinned_tweet_id": "2051856418295480444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847256791969799/JHZDhShS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24765,
+          "following_count": 1846,
+          "like_count": 88921,
+          "listed_count": 49,
+          "media_count": 2161,
+          "tweet_count": 48317
+        },
+        "url": "https://t.co/3M3AxHeYqv",
+        "username": "utashimoshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2081920401748459948",
+    "created_at": "2026-07-28T01:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081920401748459948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horse1dragon/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/horse1dragon/status/2024519737611608467",
+          "start": 5,
+          "url": "https://t.co/8mQ3uNYmbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081920401748459948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024519737611608467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "交叉引用 https://t.co/8mQ3uNYmbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2024519195070025728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiJe0cb0AAOtZ_.png",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2081920401748459948",
+        "created_at": "2026-07-28T01:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081920401748459948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horse1dragon/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/horse1dragon/status/2024519737611608467",
+              "start": 5,
+              "url": "https://t.co/8mQ3uNYmbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081920401748459948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024519737611608467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "交叉引用 https://t.co/8mQ3uNYmbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024519195070025728"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2024519737611608467",
+        "created_at": "2026-02-19T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024519737611608467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tM4kaKLxjw",
+              "end": 143,
+              "expanded_url": "https://x.com/ilobius/status/2024519737611608467/photo/1",
+              "media_key": "3_2024519195070025728",
+              "start": 120,
+              "url": "https://t.co/tM4kaKLxjw"
+            },
+            {
+              "display_url": "x.com/Horse1Dragon/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Horse1Dragon/status/1962198231749914929",
+              "start": 144,
+              "url": "https://t.co/rxaDUqFjum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024519737611608467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962198231749914929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "置顶v3.3\n在努力学习爱上生活。\n---\n主要是日常推，是并不可靠的沙雕网友。\n但存在大量莫名的情绪负能，偶尔还会锐评，我为这些致歉。\n--- \n魔法少女不会下海，但是很喜欢在海边看。人之常情。\n或许，那才是她的本性。\n这种甜度很真真。 https://t.co/tM4kaKLxjw https://t.co/rxaDUqFjum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "神乐坂家族遗孤。\nmtf/bpd/adhd/infp\n闺蜜：@Horse1Dragon \n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Horse1Dragon"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "location": "PVG",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/bpd/adhd/infp/没有双相\n「在春天的教堂许下约定 将我的未来托付给你」",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2024519737611608467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 631,
+          "like_count": 2649,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Horse1Dragon",
+        "verified": true
+      }
+    ]
+  }
+}

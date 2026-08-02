@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2051585713792290903",
+    "created_at": "2026-05-05T08:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051585713792290903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051585713792290903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051576893665894536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciyou9443: 恭喜猫猫，可以称帝了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2051585713792290903",
+        "created_at": "2026-05-05T08:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051585713792290903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051585713792290903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051576893665894536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciyou9443: 恭喜猫猫，可以称帝了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051576893665894536",
+        "created_at": "2026-05-05T08:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051576893665894536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2051576752796041357",
+              "start": 12,
+              "url": "https://t.co/NcRHbxRUrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051576893665894536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051576752796041357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜猫猫，可以称帝了！ https://t.co/NcRHbxRUrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "此路不通，请你掉头。\n会在这里定期更新最近推介的饮品：\n#冰镇杨梅瑞纳冰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "冰镇杨梅瑞纳冰"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 536,
+          "like_count": 10726,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2794
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

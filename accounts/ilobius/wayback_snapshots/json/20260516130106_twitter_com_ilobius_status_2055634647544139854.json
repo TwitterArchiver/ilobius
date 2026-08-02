@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2027399556716277760",
+    "conversation_id": "2055634647544139854",
+    "created_at": "2026-05-16T13:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055634647544139854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhhinya/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hhhinya/status/2055317639229002089",
+          "start": 3,
+          "url": "https://t.co/XvfPdZRF3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055634647544139854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055317639229002089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@猫 https://t.co/XvfPdZRF3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2055317635647029249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX0gAVWQAEb5UK.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027399556716277760",
+        "conversation_id": "2055634647544139854",
+        "created_at": "2026-05-16T13:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055634647544139854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhhinya/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hhhinya/status/2055317639229002089",
+              "start": 3,
+              "url": "https://t.co/XvfPdZRF3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634647544139854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055317639229002089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@猫 https://t.co/XvfPdZRF3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055317635647029249"
+          ]
+        },
+        "author_id": "1887655334384136193",
+        "conversation_id": "2055317639229002089",
+        "created_at": "2026-05-15T16:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055317639229002089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RT8DMg9Tgo",
+              "end": 23,
+              "expanded_url": "https://x.com/hhhinya/status/2055317639229002089/photo/1",
+              "media_key": "3_2055317635647029249",
+              "start": 0,
+              "url": "https://t.co/RT8DMg9Tgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055317639229002089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3629,
+          "impression_count": 534823,
+          "like_count": 64372,
+          "quote_count": 88,
+          "reply_count": 106,
+          "retweet_count": 5499
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RT8DMg9Tgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-27T15:05:31.000Z",
+        "description": "此路不通，请你掉头。\n会在这里定期更新最近推介的饮品：\n#冰镇杨梅瑞纳冰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "冰镇杨梅瑞纳冰"
+              }
+            ]
+          }
+        },
+        "id": "2027399556716277760",
+        "name": "Anis",
+        "pinned_tweet_id": "2027402422516429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027399874258624512/hm1ZQUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T00:11:24.000Z",
+        "description": "ghost girl learning illustration ┆art tag : #hinyart┆@twitch partner ┆❌ ai",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "hinyart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "twitch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hinya",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/hinya",
+                "start": 0,
+                "url": "https://t.co/2YhP9eip02"
+              }
+            ]
+          }
+        },
+        "id": "1887655334384136193",
+        "location": "yam ♡ ",
+        "name": "hinya",
+        "pinned_tweet_id": "2050592154360144125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053622493559025664/LGTxGwj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 398,
+          "like_count": 12413,
+          "listed_count": 15,
+          "media_count": 52,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/2YhP9eip02",
+        "username": "hhhinya",
+        "verified": true
+      }
+    ]
+  }
+}

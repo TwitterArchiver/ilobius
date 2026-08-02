@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979909841524006912"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "1979909871764947451",
+    "created_at": "2025-10-19T13:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T14:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979909871764947451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgLFSOAhzL",
+          "end": 78,
+          "expanded_url": "https://x.com/ilobius/status/1979909871764947451/photo/1",
+          "media_key": "3_1979909841524006912",
+          "start": 55,
+          "url": "https://t.co/BgLFSOAhzL"
+        },
+        {
+          "display_url": "x.com/ilobius/status…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/ilobius/status/1979909033860465091",
+          "start": 79,
+          "url": "https://t.co/mFAY8XT3GW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979909871764947451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979909033860465091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生活就是这样，吃不完的史，解不完的结~\n啊那此处特意引用一篇课文！\n虽然我并不记得我有学过，这是否暴露年龄了 https://t.co/BgLFSOAhzL https://t.co/mFAY8XT3GW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_1979909841524006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3oNgsdWoAAhfjk.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979909841524006912"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "1979909871764947451",
+        "created_at": "2025-10-19T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979909871764947451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgLFSOAhzL",
+              "end": 78,
+              "expanded_url": "https://x.com/ilobius/status/1979909871764947451/photo/1",
+              "media_key": "3_1979909841524006912",
+              "start": 55,
+              "url": "https://t.co/BgLFSOAhzL"
+            },
+            {
+              "display_url": "x.com/ilobius/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/ilobius/status/1979909033860465091",
+              "start": 79,
+              "url": "https://t.co/mFAY8XT3GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979909871764947451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979909033860465091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活就是这样，吃不完的史，解不完的结~\n啊那此处特意引用一篇课文！\n虽然我并不记得我有学过，这是否暴露年龄了 https://t.co/BgLFSOAhzL https://t.co/mFAY8XT3GW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1977409331944673528",
+        "created_at": "2025-10-19T13:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T14:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979909033860465091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979909033860465091",
+        "in_reply_to_user_id": "1141910274594619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977409331944673528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经在逃离了！！去买咖啡，自取拿走了，被叫住问要不要纸，一回头全扣地下了，呜呜呜\n旁边就有人在拖地，我俩面面相觑，他看看我我看看他，可能觉得我是来找茬的……\n虽然光速给我重做了一杯没有实际损失，但真的好丢脸，好想逃离地球^ ^\n至于等待重做的三分钟，我只能说，啊，这瓷砖可太瓷砖了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 508,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 229
+        },
+        "username": "ilobius",
+        "verified": false
+      }
+    ]
+  }
+}

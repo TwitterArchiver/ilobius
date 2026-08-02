@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1984303170890391571",
+    "created_at": "2025-10-31T16:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984303170890391571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984303170890391571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984086085727875105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 你长大了 这个世界的两边都有你爱的人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1984303170890391571",
+        "created_at": "2025-10-31T16:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984303170890391571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984303170890391571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984086085727875105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 你长大了 这个世界的两边都有你爱的人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1984086085727875105",
+        "created_at": "2025-10-31T02:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T03:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984086085727875105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984086085727875105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 74575,
+          "like_count": 737,
+          "quote_count": 15,
+          "reply_count": 41,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "你长大了 这个世界的两边都有你爱的人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "在春天的教堂许下约定 将我的未来托付给你 ／退役魔法少女的细碎日常 ／不要关注不要关注不要关注 ／被熟人抓到请私聊我，我什么都会做的……",
+        "id": "1141910274594619392",
+        "location": "魔法位面驻地球办事处",
+        "name": "璃玻碎",
+        "pinned_tweet_id": "1962198231749914929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 526,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 244
+        },
+        "username": "ilobius",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPmSN"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715132814581760/ArvfnMh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9916,
+          "following_count": 104,
+          "like_count": 8533,
+          "listed_count": 16,
+          "media_count": 119,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/xpg16bPmSN",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}
