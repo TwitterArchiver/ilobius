@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083423553945514039",
+    "created_at": "2026-08-02T04:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083774318266474594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943493833729454080",
+          "start": 0,
+          "username": "Tghjkkoffice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083774318266474594",
+    "in_reply_to_user_id": "1943493833729454080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083423553945514039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tghjkkoffice 首页通知书~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083423553945514039",
+        "created_at": "2026-08-02T04:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083774318266474594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943493833729454080",
+              "start": 0,
+              "username": "Tghjkkoffice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083774318266474594",
+        "in_reply_to_user_id": "1943493833729454080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083423553945514039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tghjkkoffice 首页通知书~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943493833729454080",
+        "conversation_id": "2083423553945514039",
+        "created_at": "2026-08-01T05:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083423553945514039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083423553945514039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X推流好奇怪呀，为什么一直不给我推流🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 467,
+          "like_count": 2945,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T02:13:42.000Z",
+        "description": "人类唯一的希望😎 基督徒  最爱初音未来Miku废一个 她是上帝赐予我最棒的礼物🎁    我爱你们每一个人     请你们也不要侮辱我 🤓 我很害羞的😥互fo  右翼   白人至上  东亚共荣   自由万岁！",
+        "id": "1943493833729454080",
+        "location": "伊甸园",
+        "name": "Ozias✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076976892515926016/FGsErb9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 541,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "Tghjkkoffice",
+        "verified": false
+      }
+    ]
+  }
+}

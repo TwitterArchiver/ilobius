@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2091834449847795826",
+    "created_at": "2026-08-24T10:26:11.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091834449847795826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091834449847795826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发明快餐式娱乐的人简直是绝绝子，现在我难受的时候也不哭了也不闹了，也不流着泪思考我的人生我的痛苦我的过去和未来了，只需要打开小音符一直刷，两分钟之内我就能像个傻坤一样笑出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2091834449847795826",
+        "created_at": "2026-08-24T10:26:11.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091834449847795826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091834449847795826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发明快餐式娱乐的人简直是绝绝子，现在我难受的时候也不哭了也不闹了，也不流着泪思考我的人生我的痛苦我的过去和未来了，只需要打开小音符一直刷，两分钟之内我就能像个傻坤一样笑出来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "软糯又听话的蓁子会成为别人的宠物吗？\n『广告位招租』\n星眠@hoshinemu123 素素(薨)@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2091834449847795826",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2024519737611608467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 465,
+          "like_count": 3718,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

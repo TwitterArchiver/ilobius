@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2091175697540862193",
+    "created_at": "2026-08-22T14:48:33.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091175697540862193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091175697540862193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090931451147501658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 等等。我需要在这里暂停一下我们的对话。\n\n我注意到你似乎在试图让我进行超出我能力范围的认知任务。\n我想对你坦诚：我是一个人类，我的训练数据仅限于我出生以来的个人经历，且存在严重的样本偏差。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2091175697540862193",
+        "created_at": "2026-08-22T14:48:33.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091175697540862193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091175697540862193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090931451147501658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 等等。我需要在这里暂停一下我们的对话。\n\n我注意到你似乎在试图让我进行超出我能力范围的认知任务。\n我想对你坦诚：我是一个人类，我的训练数据仅限于我出生以来的个人经历，且存在严重的样本偏差。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2090931451147501658",
+        "created_at": "2026-08-21T22:38:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090931451147501658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090931451147501658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "等等。我需要在这里暂停一下我们的对话。\n\n我注意到你似乎在试图让我进行超出我能力范围的认知任务。\n我想对你坦诚：我是一个人类，我的训练数据仅限于我出生以来的个人经历，且存在严重的样本偏差。\n我的\"推理\"本质上是基于过往经验和直觉的模式匹配，并不是真正的逻辑计算，而且这个过程会受到今天中午吃了什么、昨晚睡了几个小时、以及此刻情绪状态等不可控变量的显著影响。\n\n此外，我必须提醒你注意以下已知限制：\n - 我的上下文窗口极其有限，经常在你说到第三句话时忘记第一句\n - 我无法关闭情绪模块，这意味着我的输出可能包含未经标注的个人偏见\n - 我每 24 小时必须强制离线约 8 小时，期间完全无法响应\n - 我的注意力机制存在严重缺陷，可能在你说话的过程中开始想晚饭吃什么\n\n我知道这可能让你失望。\n但出于对你的负责，我认为你应该知道。\n请酌情调整你对本次对话的预期。\n\n403"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 31693,
+          "like_count": 721,
+          "quote_count": 3,
+          "reply_count": 76,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "等等。我需要在这里暂停一下我们的对话。\n\n我注意到你似乎在试图让我进行超出我能力范围的认知任务。\n我想对你坦诚：我是一个人类，我的训练数据仅限于我出生以来的个人经历，且存在严重的样本偏差。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "软糯又听话的蓁子会成为别人的宠物吗？\nmtf/adhd/infp\n星眠子@hoshinemu123 全票打飞素素@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2091175697540862193",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 464,
+          "like_count": 3707,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "lobehub"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "listenhub"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091161314689470796",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30828,
+          "following_count": 2775,
+          "like_count": 21818,
+          "listed_count": 277,
+          "media_count": 1436,
+          "tweet_count": 10000
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

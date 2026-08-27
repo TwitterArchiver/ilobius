@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2084210884344492141",
+    "created_at": "2026-08-03T09:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084211866084221229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084211866084221229",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084210884344492141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 忽悠忽悠自己得了，别把大家骗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2084210875062456320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyav40akAA1f8Z.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2084210884344492141",
+        "created_at": "2026-08-03T09:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084211866084221229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084211866084221229",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084210884344492141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 忽悠忽悠自己得了，别把大家骗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084210875062456320"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2084210884344492141",
+        "created_at": "2026-08-03T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084210884344492141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k16OV6mkR",
+              "end": 53,
+              "expanded_url": "https://x.com/ciyou9443/status/2084210884344492141/photo/1",
+              "media_key": "3_2084210875062456320",
+              "start": 30,
+              "url": "https://t.co/8k16OV6mkR"
+            },
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2084135391029023006",
+              "start": 54,
+              "url": "https://t.co/ZZ0bEHP0Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084210884344492141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084135391029023006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也可能是没以为那个身份证上的是我（素子过不了人脸识别了🤓） https://t.co/8k16OV6mkR https://t.co/ZZ0bEHP0Vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 527,
+          "like_count": 3271,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "不想也无力在解释任何事，允许随意意淫揣测指摘素\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 488,
+          "like_count": 13192,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

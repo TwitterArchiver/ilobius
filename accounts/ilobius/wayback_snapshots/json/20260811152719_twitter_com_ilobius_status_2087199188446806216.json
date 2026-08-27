@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2087199188446806216",
+    "created_at": "2026-08-11T15:27:19.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087199188446806216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087199188446806216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前额叶被我放生了\n杏仁核也是做成每日坚果了\n松果体还给松鼠了\n海马体更是回归大海了\n\n蓁子脑袋里有这些玩意不纯捣乱吗😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2087199188446806216",
+        "created_at": "2026-08-11T15:27:19.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087199188446806216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087199188446806216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前额叶被我放生了\n杏仁核也是做成每日坚果了\n松果体还给松鼠了\n海马体更是回归大海了\n\n蓁子脑袋里有这些玩意不纯捣乱吗😖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n眠：@hoshinemu123 素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2087199188446806216",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 471,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

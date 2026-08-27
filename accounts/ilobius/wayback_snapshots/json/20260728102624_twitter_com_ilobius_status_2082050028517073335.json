@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2082002195856388521",
+    "created_at": "2026-07-28T10:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082050028517073335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082050028517073335",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082002195856388521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 可爱的 甜妹的 合理的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2208,
+        "media_key": "3_2082002175602081793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTB8qJaQAEh8lB.jpg",
+        "width": 2944
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2082002187937615872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTB9YGbkAAoyqO.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2082002195856388521",
+        "created_at": "2026-07-28T10:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082050028517073335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082050028517073335",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082002195856388521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 可爱的 甜妹的 合理的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082002175602081793",
+            "3_2082002187937615872"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2082002195856388521",
+        "created_at": "2026-07-28T07:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082002195856388521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1Xt7i4ojQ",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2082002195856388521/photo/1",
+              "media_key": "3_2082002175602081793",
+              "start": 32,
+              "url": "https://t.co/I1Xt7i4ojQ"
+            },
+            {
+              "display_url": "pic.x.com/I1Xt7i4ojQ",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2082002195856388521/photo/1",
+              "media_key": "3_2082002187937615872",
+              "start": 32,
+              "url": "https://t.co/I1Xt7i4ojQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082002195856388521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1392,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介是怎么一回事捏，素纸最近不止一次对自己起反应了(〃'▽'〃) https://t.co/I1Xt7i4ojQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠子：@hoshinemu123 素老师：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 474,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "总是要问，我是谁？   \n双相情感障碍\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2074463616150204444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 598,
+          "like_count": 12956,
+          "listed_count": 5,
+          "media_count": 440,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

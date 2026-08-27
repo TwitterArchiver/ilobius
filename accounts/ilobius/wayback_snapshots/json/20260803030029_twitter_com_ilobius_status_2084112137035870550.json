@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083827956879872196",
+    "created_at": "2026-08-03T03:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084112137035870550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667752579596685313",
+          "start": 0,
+          "username": "Overexhaustion9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084112137035870550",
+    "in_reply_to_user_id": "1667752579596685313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083827956879872196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overexhaustion9 伟大！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083827942313066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs-eRKagAAWwoR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083827956879872196",
+        "created_at": "2026-08-03T03:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084112137035870550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667752579596685313",
+              "start": 0,
+              "username": "Overexhaustion9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084112137035870550",
+        "in_reply_to_user_id": "1667752579596685313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083827956879872196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overexhaustion9 伟大！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083827942313066496"
+          ]
+        },
+        "author_id": "1667752579596685313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083827956879872196",
+        "created_at": "2026-08-02T08:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083827956879872196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvHm1qK0b8",
+              "end": 42,
+              "expanded_url": "https://x.com/Overexhaustion9/status/2083827956879872196/photo/1",
+              "media_key": "3_2083827942313066496",
+              "start": 19,
+              "url": "https://t.co/WvHm1qK0b8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083827956879872196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21世纪最伟大的厨师做出了照烧鸡排饭 https://t.co/WvHm1qK0b8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 525,
+          "like_count": 3199,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T04:36:33.000Z",
+        "description": "会飞的猪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r076370",
+                "end": 23,
+                "expanded_url": "http://ngl.link/r076370",
+                "start": 0,
+                "url": "https://t.co/RBoflnR8rw"
+              }
+            ]
+          }
+        },
+        "id": "1667752579596685313",
+        "location": "xxxxxxxx",
+        "name": "Alice",
+        "pinned_tweet_id": "2083155328917438785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063468319349583872/UqpjS7ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 474,
+          "like_count": 7201,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/RBoflnR8rw",
+        "username": "Overexhaustion9",
+        "verified": false
+      }
+    ]
+  }
+}

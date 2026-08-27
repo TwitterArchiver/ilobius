@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083032599514292226",
+    "created_at": "2026-08-02T04:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083775259988369896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1428277408533147649",
+          "start": 0,
+          "username": "fxufx_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083775259988369896",
+    "in_reply_to_user_id": "1428277408533147649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083032599514292226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxufx_u 是漂亮姐姐~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083032563002814464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhrFGVasAAeygZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083032562994442241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhrFGTa8AEhv_k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083032599514292226",
+        "created_at": "2026-08-02T04:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083775259988369896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1428277408533147649",
+              "start": 0,
+              "username": "fxufx_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083775259988369896",
+        "in_reply_to_user_id": "1428277408533147649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083032599514292226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxufx_u 是漂亮姐姐~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083032563002814464",
+            "3_2083032562994442241"
+          ]
+        },
+        "author_id": "1428277408533147649",
+        "conversation_id": "2083032599514292226",
+        "created_at": "2026-07-31T03:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083032599514292226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cStD01rtQt",
+              "end": 34,
+              "expanded_url": "https://x.com/fxufx_u/status/2083032599514292226/photo/1",
+              "media_key": "3_2083032563002814464",
+              "start": 11,
+              "url": "https://t.co/cStD01rtQt"
+            },
+            {
+              "display_url": "pic.x.com/cStD01rtQt",
+              "end": 34,
+              "expanded_url": "https://x.com/fxufx_u/status/2083032599514292226/photo/1",
+              "media_key": "3_2083032562994442241",
+              "start": 11,
+              "url": "https://t.co/cStD01rtQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083032599514292226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今未能驯服假刘海。 https://t.co/cStD01rtQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 471,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-19T08:47:36.000Z",
+        "description": "",
+        "id": "1428277408533147649",
+        "name": "UFxufx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428277697566760962/QGA-_KxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 199,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "fxufx_u",
+        "verified": false
+      }
+    ]
+  }
+}

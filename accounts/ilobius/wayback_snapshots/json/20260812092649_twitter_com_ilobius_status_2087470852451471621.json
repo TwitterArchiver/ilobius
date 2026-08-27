@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2087470852451471621",
+    "created_at": "2026-08-12T09:26:49.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087470852451471621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ciyou9443/status/2087412776033792482",
+          "start": 16,
+          "url": "https://t.co/XR2ozqBDh6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087470852451471621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087412776033792482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给大家看看我关注的电波系美少女 https://t.co/XR2ozqBDh6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3152,
+        "media_key": "3_2087412758392537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf62BubAAAAD9K.jpg",
+        "width": 1724
+      },
+      {
+        "height": 1537,
+        "media_key": "3_2087412767389351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf62jPbgAA-IBC.jpg",
+        "width": 3461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2087470852451471621",
+        "created_at": "2026-08-12T09:26:49.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087470852451471621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2087412776033792482",
+              "start": 16,
+              "url": "https://t.co/XR2ozqBDh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087470852451471621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087412776033792482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给大家看看我关注的电波系美少女 https://t.co/XR2ozqBDh6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087412758392537088",
+            "3_2087412767389351936"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-12T05:36:02.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087412776033792482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGKTzsvqEk",
+              "end": 101,
+              "expanded_url": "https://x.com/ciyou9443/status/2087412776033792482/photo/1",
+              "media_key": "3_2087412758392537088",
+              "start": 78,
+              "url": "https://t.co/qGKTzsvqEk"
+            },
+            {
+              "display_url": "pic.x.com/qGKTzsvqEk",
+              "end": 101,
+              "expanded_url": "https://x.com/ciyou9443/status/2087412776033792482/photo/1",
+              "media_key": "3_2087412767389351936",
+              "start": 78,
+              "url": "https://t.co/qGKTzsvqEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087412776033792482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087412758392537088"
+          },
+          {
+            "media_key": "3_2087412767389351936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6063,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赤足出门大成功！\n一位大叔：“小姑娘你咋光着脚走路”\n素：“啊哈，没事”\n不光滑的路段走上去其实无碍，就像按摩，但被烈日晒过的地面走上去感觉要把脚烫熟了。 https://t.co/qGKTzsvqEk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n眠：@hoshinemu123 素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2087470852451471621",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 471,
+          "like_count": 3589,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n隐藏一些时间线 清除一些时间线\n电波系御姐/间期性水仙/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087470560687391097",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 407,
+          "like_count": 13796,
+          "listed_count": 5,
+          "media_count": 464,
+          "tweet_count": 3537
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

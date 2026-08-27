@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2090080363792273829",
+    "created_at": "2026-08-19T14:17:45.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090080784304787596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2089613787666243584",
+          "start": 0,
+          "username": "yaosu7982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090080784304787596",
+    "in_reply_to_user_id": "2089613787666243584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090080363792273829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaosu7982 可爱可爱可爱 美少女肯定是白白的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10540,
+        "height": 1280,
+        "media_key": "13_2090079642619445248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090079642619445248/img/FHKCI3MTVrX2LBH9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090079642619445248/vid/avc1/320x568/VCcUZ5jJOcibE9we.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090079642619445248/vid/avc1/480x852/Q0g0iFBQxFQpbo0v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090079642619445248/vid/avc1/720x1280/x6ZCQwfr98pbljfy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090079642619445248/pl/_hWA-3MqmC0nl_8Y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2090080363792273829",
+        "created_at": "2026-08-19T14:17:45.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090080784304787596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2089613787666243584",
+              "start": 0,
+              "username": "yaosu7982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090080784304787596",
+        "in_reply_to_user_id": "2089613787666243584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090080363792273829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaosu7982 可爱可爱可爱 美少女肯定是白白的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090079642619445248"
+          ]
+        },
+        "author_id": "2089613787666243584",
+        "conversation_id": "2090080363792273829",
+        "created_at": "2026-08-19T14:16:05.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090080363792273829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3KytGnoXd",
+              "end": 48,
+              "expanded_url": "https://x.com/yaosu7982/status/2090080363792273829/video/1",
+              "media_key": "13_2090079642619445248",
+              "start": 25,
+              "url": "https://t.co/h3KytGnoXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090080363792273829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090079642619445248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛了一天的素师傅回家啦\n叶老师说我白的像死人💫💫 https://t.co/h3KytGnoXd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "蓁子正害怕自己也会被老马凿了\nmtf/adhd/infp\n星眠子@hoshinemu123 全票打飞素素@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2090080784304787596",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 456,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T07:23:09.000Z",
+        "description": "电波系💫💫💫",
+        "id": "2089613787666243584",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2090080363792273829",
+        "name": "素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089613787666243584/1787040278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089614286520012800/1b68y8CG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 31,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "yaosu7982",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

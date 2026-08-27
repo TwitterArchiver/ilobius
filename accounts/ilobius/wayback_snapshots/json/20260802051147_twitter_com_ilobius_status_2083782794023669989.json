@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "1763362115858174249",
+    "created_at": "2026-08-02T05:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083782794023669989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1440706900312555532",
+          "start": 0,
+          "username": "enbaibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083782794023669989",
+    "in_reply_to_user_id": "1440706900312555532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1763362115858174249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enbaibai 猫猫可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1763361993724194816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHi4Y_5a8AAqxV0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1763361993724182529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHi4Y_5awAExROT.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 65435,
+        "height": 1280,
+        "media_key": "7_1763361993724182528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1763361993724182528/pu/img/DZ2ecPvA3ng3MWyD.jpg",
+        "public_metrics": {
+          "view_count": 2088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763361993724182528/pu/vid/avc1/320x568/VZOH77wRoJQK9lPF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763361993724182528/pu/vid/avc1/480x852/tnFChyx5QnSxrxsL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763361993724182528/pu/vid/avc1/720x1280/P5zjRrDpGDxlZQ2F.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1763361993724182528/pu/pl/oWX2sF2aarqR2vbX.m3u8?tag=12&v=596"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1763361993715838976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHi4Y_3bcAAJX31.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "1763362115858174249",
+        "created_at": "2026-08-02T05:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083782794023669989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1440706900312555532",
+              "start": 0,
+              "username": "enbaibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782794023669989",
+        "in_reply_to_user_id": "1440706900312555532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1763362115858174249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enbaibai 猫猫可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1763361993724194816",
+            "3_1763361993724182529",
+            "7_1763361993724182528",
+            "3_1763361993715838976"
+          ]
+        },
+        "author_id": "1440706900312555532",
+        "conversation_id": "1763362115858174249",
+        "created_at": "2024-03-01T00:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-01T01:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1763362115858174249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1UuQgbXtS",
+              "end": 28,
+              "expanded_url": "https://x.com/enbaibai/status/1763362115858174249/video/1",
+              "media_key": "3_1763361993724194816",
+              "start": 5,
+              "url": "https://t.co/F1UuQgbXtS"
+            },
+            {
+              "display_url": "pic.x.com/F1UuQgbXtS",
+              "end": 28,
+              "expanded_url": "https://x.com/enbaibai/status/1763362115858174249/video/1",
+              "media_key": "3_1763361993724182529",
+              "start": 5,
+              "url": "https://t.co/F1UuQgbXtS"
+            },
+            {
+              "display_url": "pic.x.com/F1UuQgbXtS",
+              "end": 28,
+              "expanded_url": "https://x.com/enbaibai/status/1763362115858174249/video/1",
+              "media_key": "7_1763361993724182528",
+              "start": 5,
+              "url": "https://t.co/F1UuQgbXtS"
+            },
+            {
+              "display_url": "pic.x.com/F1UuQgbXtS",
+              "end": 28,
+              "expanded_url": "https://x.com/enbaibai/status/1763362115858174249/video/1",
+              "media_key": "3_1763361993715838976",
+              "start": 5,
+              "url": "https://t.co/F1UuQgbXtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1763362115858174249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8800,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是六元 https://t.co/F1UuQgbXtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 489,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-22T15:58:03.000Z",
+        "description": "不要考虑两小时和八公里之外的事情。   //\n允许一些发生//私信用不了",
+        "id": "1440706900312555532",
+        "location": "☁️",
+        "name": "六元是只小蓝猫",
+        "pinned_tweet_id": "1763362115858174249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584770207075430400/zpX8pUix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 67,
+          "like_count": 7605,
+          "listed_count": 1,
+          "media_count": 1048,
+          "tweet_count": 4930
+        },
+        "url": "",
+        "username": "enbaibai",
+        "verified": false
+      }
+    ]
+  }
+}

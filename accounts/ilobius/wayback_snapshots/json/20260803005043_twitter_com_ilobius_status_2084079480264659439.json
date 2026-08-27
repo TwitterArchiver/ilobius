@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2084014541982011786",
+    "created_at": "2026-08-03T00:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084079480264659439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084079480264659439",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084014541982011786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 每学期都有心理测评摸排，建议是往好了填。不然会被导员和心理咨询室找"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 169714,
+        "height": 720,
+        "media_key": "7_2084014011444523008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084014011444523008/pu/img/gAPVE7HIiI1lottL.jpg",
+        "public_metrics": {
+          "view_count": 550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/480x270/cWYtA9PHbLcmxoQC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/640x360/cufE1lxH28aiRy5_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/1280x720/rGuDogZ0FNsDNe4B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/pl/ECfISqp4sl76zqft.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2084014541982011786",
+        "created_at": "2026-08-03T00:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084079480264659439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084079480264659439",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084014541982011786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 每学期都有心理测评摸排，建议是往好了填。不然会被导员和心理咨询室找"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084014011444523008"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2084014541982011786",
+        "created_at": "2026-08-02T20:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084014541982011786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPnlegH0CJ",
+              "end": 137,
+              "expanded_url": "https://x.com/mario_2333/status/2084014541982011786/video/1",
+              "media_key": "7_2084014011444523008",
+              "start": 114,
+              "url": "https://t.co/LPnlegH0CJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084014541982011786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有\n\n性少数一样是学校的不稳定因素，心理委员几乎也都会监控空间朋友圈的负面言论并上报\n\n如果有条件可以寻求其他专业帮助，不要用自己的前途去赌学校是否善良"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1000,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有 https://t.co/LPnlegH0CJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 521,
+          "like_count": 3178,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 284,
+          "like_count": 58739,
+          "listed_count": 19,
+          "media_count": 1214,
+          "tweet_count": 19411
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

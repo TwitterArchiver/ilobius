@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083862773721911799",
+    "created_at": "2026-08-03T00:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084081199270760496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "KissaHsgsta1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084081199270760496",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083862773721911799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KissaHsgsta1106 可爱捏！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083862773721911799",
+        "created_at": "2026-08-03T00:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084081199270760496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "KissaHsgsta1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084081199270760496",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083862773721911799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KissaHsgsta1106 可爱捏！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2083862773721911799",
+        "created_at": "2026-08-02T10:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083862773721911799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083862773721911799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着酒劲在路边和猫聊天，然后把初音介绍给猫认识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛🥺\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 521,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "location": "乌茨约基，拉普兰",
+        "name": "赫尔辛基的猫",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082035815387955200/6yr37V9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 789,
+          "like_count": 46430,
+          "listed_count": 4,
+          "media_count": 371,
+          "tweet_count": 2263
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false
+      }
+    ]
+  }
+}

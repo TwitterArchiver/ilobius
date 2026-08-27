@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2083686920186671567",
+    "created_at": "2026-08-02T00:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083709662768341182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083709662768341182",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083686920186671567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 ？不是 这玩意还能来第二次的啊 眠眠猫神力恐怖如斯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2076,
+        "media_key": "3_2083686907738030080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq-M-bbgAAuMNu.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2083686920186671567",
+        "created_at": "2026-08-02T00:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083709662768341182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083709662768341182",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083686920186671567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 ？不是 这玩意还能来第二次的啊 眠眠猫神力恐怖如斯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083686907738030080"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2083686920186671567",
+        "created_at": "2026-08-01T22:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083686920186671567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLuMSXbtXf",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinemu123/status/2083686920186671567/photo/1",
+              "media_key": "3_2083686907738030080",
+              "start": 0,
+              "url": "https://t.co/BLuMSXbtXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083686920186671567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BLuMSXbtXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~\n「在夏天的海边共同嬉戏，建造的沙堡永不决堤」\n星眠：@hoshinemu123 素素：@ciyou9443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ciyou9443"
+              }
+            ]
+          }
+        },
+        "id": "1141910274594619392",
+        "location": "NKG",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2069031843358523796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 454,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖”\n星眠的生活号，不定期推音乐＆美术作品。古风狂热爱好者，音乐策划，汉服袍子。隐居宣州，长三角随机出没，欢迎小女孩们来找我玩。家里茶室对外开放。不化妆修图是因为懒。\n坏事都是她做的：@ciyou9443 指导教师：@ilobius\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠子",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3417,
+          "following_count": 3284,
+          "like_count": 3707,
+          "listed_count": 5,
+          "media_count": 981,
+          "tweet_count": 10346
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}
