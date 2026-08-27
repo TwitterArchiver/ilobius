@@ -1,7 +1,7 @@
 {
   "name": "梨雪沫",
   "username": "@ilobius",
-  "bio": "mtf/adhd/infp/bpd/没有双相/亲爱的可以互fo嘛~ 「在夏天的海边共同嬉戏，建造的沙堡永不决堤」 星眠：@hoshinemu123 素素：@ciyou9443",
+  "bio": "软糯又听话的蓁子会成为别人的宠物吗？\n『广告位招租』\n星眠@hoshinemu123 素素(薨)@ciyou9443",
   "location": "NKG",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 73,
-        "start": 60,
+        "end": 42,
+        "start": 29,
         "username": "hoshinemu123"
       },
       {
-        "end": 87,
-        "start": 77,
+        "end": 58,
+        "start": 48,
         "username": "ciyou9443"
       }
     ]
