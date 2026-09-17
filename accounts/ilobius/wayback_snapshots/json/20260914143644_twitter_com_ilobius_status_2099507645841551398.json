@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2099507645841551398",
+    "created_at": "2026-09-14T14:36:44.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099507645841551398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/2099171300598321329",
+          "start": 146,
+          "url": "https://t.co/J7Uy1DDCNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099507645841551398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099171300598321329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相比中高考、考公考研来说，跨显然没有唯一的评判标准。\n大家的起点也都不一样，这也不是一个完全靠自身努力就可以卷上去的事情。\npass、伪声、srs、ffs，终归都是为了让自己生活得更好，都是个人决定，不是必选项。\n所以我觉得没有统一的\"对岸\"。人生是深海。\n上不上岸、哪里是岸，都你说了算。 https://t.co/J7Uy1DDCNX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2099171287021268992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHBKeWaMAAbXBq.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2099507645841551398",
+        "created_at": "2026-09-14T14:36:44.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099507645841551398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2099171300598321329",
+              "start": 146,
+              "url": "https://t.co/J7Uy1DDCNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099507645841551398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099171300598321329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相比中高考、考公考研来说，跨显然没有唯一的评判标准。\n大家的起点也都不一样，这也不是一个完全靠自身努力就可以卷上去的事情。\npass、伪声、srs、ffs，终归都是为了让自己生活得更好，都是个人决定，不是必选项。\n所以我觉得没有统一的\"对岸\"。人生是深海。\n上不上岸、哪里是岸，都你说了算。 https://t.co/J7Uy1DDCNX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099171287021268992"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2099171300598321329",
+        "created_at": "2026-09-13T16:20:13.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:56:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099165236158955767",
+          "2099171300598321329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWPMzPQ0kX",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshinemu123/status/2099171300598321329/photo/1",
+              "media_key": "3_2099171287021268992",
+              "start": 12,
+              "url": "https://t.co/vWPMzPQ0kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099171300598321329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099171287021268992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4530,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "河的对岸究竟是什么呢？ https://t.co/vWPMzPQ0kX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "叶家在逃公主\n软糯又听话的蓁子会成为别人的宠物吗？",
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "参宿四",
+        "most_recent_tweet_id": "2099507645841551398",
+        "name": "梨雪沫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 456,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2099465797571854437",
+        "name": "星眠子",
+        "pinned_tweet_id": "2099264359231033804",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 3258,
+          "like_count": 3704,
+          "listed_count": 5,
+          "media_count": 1020,
+          "tweet_count": 10654
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2099045234906910874",
+    "created_at": "2026-09-13T07:59:17.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099045234906910874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690721268373581824",
+          "start": 3,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099045234906910874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098718661330579490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celsius233C: 警惕健全人蒸馏adhd思维链"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2099045234906910874",
+        "created_at": "2026-09-13T07:59:17.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099045234906910874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690721268373581824",
+              "start": 3,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099045234906910874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098718661330579490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celsius233C: 警惕健全人蒸馏adhd思维链"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "2098718661330579490",
+        "created_at": "2026-09-12T10:21:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098718661330579490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/celsius233c/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/celsius233c/status/2098500266471391523",
+              "start": 15,
+              "url": "https://t.co/9kZeOoxOHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098718661330579490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5274,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098500266471391523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警惕健全人蒸馏adhd思维链 https://t.co/9kZeOoxOHj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "叶家在逃公主\n软糯又听话的蓁子会成为别人的宠物吗？",
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2099045234906910874",
+        "name": "梨雪沫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 456,
+          "like_count": 3827,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US",
+        "id": "1690721268373581824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099006944656667043",
+        "name": "233°C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690721268373581824/1729236459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216810953945088/bXezlZcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 971,
+          "like_count": 28012,
+          "listed_count": 21,
+          "media_count": 42,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "Celsius233C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

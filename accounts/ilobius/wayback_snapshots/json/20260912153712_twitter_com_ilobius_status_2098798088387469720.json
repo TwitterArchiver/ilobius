@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2098798088387469720",
+    "created_at": "2026-09-12T15:37:12.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098798088387469720"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098798088387469720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么才发现我柜门其实不存在……\n\n原来我早就跟现实朋友各种位面上漏完了 \n导致我明牌了都一点反应没有\n\n可恶 那我这人生经历岂不是凭空缺一块 \n退钱！！蓁蓁不玩啦！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2098798088387469720",
+        "created_at": "2026-09-12T15:37:12.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098798088387469720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098798088387469720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么才发现我柜门其实不存在……\n\n原来我早就跟现实朋友各种位面上漏完了 \n导致我明牌了都一点反应没有\n\n可恶 那我这人生经历岂不是凭空缺一块 \n退钱！！蓁蓁不玩啦！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "叶家在逃公主\n软糯又听话的蓁子会成为别人的宠物吗？",
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2098798088387469720",
+        "name": "梨雪沫",
+        "pinned_tweet_id": "2024519737611608467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 455,
+          "like_count": 3811,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

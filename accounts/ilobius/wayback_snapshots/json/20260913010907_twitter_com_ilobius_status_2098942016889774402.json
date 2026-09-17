@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1141910274594619392",
+    "conversation_id": "2098680657992196590",
+    "created_at": "2026-09-13T01:09:07.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098942016889774402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098942016889774402",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098680657992196590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 秋明源 好熟悉又陌生的名字……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2098680556620034048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAC2NJbMAAsJ7R.jpg",
+        "width": 820
+      },
+      {
+        "height": 1215,
+        "media_key": "3_2098680556674568192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAC2NWbUAAsOUA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 894,
+        "media_key": "3_2098680556620025856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAC2NJbEAAMMsU.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141910274594619392",
+        "conversation_id": "2098680657992196590",
+        "created_at": "2026-09-13T01:09:07.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098942016889774402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098942016889774402",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098680657992196590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 秋明源 好熟悉又陌生的名字……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098680556620034048",
+            "3_2098680556674568192",
+            "3_2098680556620025856"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098680657992196590",
+        "created_at": "2026-09-12T07:50:35.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098680657992196590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMedYowmnX",
+              "end": 58,
+              "expanded_url": "https://x.com/zza2ku/status/2098680657992196590/photo/1",
+              "media_key": "3_2098680556620034048",
+              "start": 35,
+              "url": "https://t.co/aMedYowmnX"
+            },
+            {
+              "display_url": "pic.x.com/aMedYowmnX",
+              "end": 58,
+              "expanded_url": "https://x.com/zza2ku/status/2098680657992196590/photo/1",
+              "media_key": "3_2098680556674568192",
+              "start": 35,
+              "url": "https://t.co/aMedYowmnX"
+            },
+            {
+              "display_url": "pic.x.com/aMedYowmnX",
+              "end": 58,
+              "expanded_url": "https://x.com/zza2ku/status/2098680657992196590/photo/1",
+              "media_key": "3_2098680556620025856",
+              "start": 35,
+              "url": "https://t.co/aMedYowmnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098680657992196590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098680556620034048"
+          },
+          {
+            "media_key": "3_2098680556674568192"
+          },
+          {
+            "media_key": "3_2098680556620025856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 10154,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "否极泰来=泰国补佳乐\n\n国色天香=国产色谱龙\n\n琪树冉冉=琪宁黄体酮 https://t.co/aMedYowmnX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "叶家在逃公主\n软糯又听话的蓁子会成为别人的宠物吗？",
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "NKG",
+        "most_recent_tweet_id": "2098942016889774402",
+        "name": "梨雪沫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 456,
+          "like_count": 3817,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "mtf，粉红\n混合性焦虑抑郁障碍",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098933041271853342",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 85,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
