@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102765655225454592"
+      ]
+    },
+    "author_id": "1141910274594619392",
+    "conversation_id": "2102770686423158900",
+    "created_at": "2026-09-23T14:42:53.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102770686423158900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "mtf"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "hrt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGDn2X87Vc",
+          "end": 172,
+          "expanded_url": "https://x.com/ilobius/status/2102770686423158900/photo/1",
+          "media_key": "3_2102765655225454592",
+          "start": 149,
+          "url": "https://t.co/aGDn2X87Vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102770686423158900",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102765655225454592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家来点德贴雌贴经验？\n#mtf #hrt\n位置选择因人而异，我是大腿根外部前侧的左右固定位置轮换，外覆pu膜防水加固。适应了两周以后，三四天内都不会过敏\n贴过的部位会有一点色沉，大概三四天就变得很浅，只够我找到上次位置的那种\n至于效果和浓度我测出来够用但不稳定 可能和贴敷手法有关系 暂且蒙古 https://t.co/aGDn2X87Vc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2102765655225454592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6GOPWa0AAtiqD.png",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102765655225454592"
+          ]
+        },
+        "author_id": "1141910274594619392",
+        "conversation_id": "2102770686423158900",
+        "created_at": "2026-09-23T14:42:53.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102770686423158900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "mtf"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "hrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGDn2X87Vc",
+              "end": 172,
+              "expanded_url": "https://x.com/ilobius/status/2102770686423158900/photo/1",
+              "media_key": "3_2102765655225454592",
+              "start": 149,
+              "url": "https://t.co/aGDn2X87Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102770686423158900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102765655225454592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家来点德贴雌贴经验？\n#mtf #hrt\n位置选择因人而异，我是大腿根外部前侧的左右固定位置轮换，外覆pu膜防水加固。适应了两周以后，三四天内都不会过敏\n贴过的部位会有一点色沉，大概三四天就变得很浅，只够我找到上次位置的那种\n至于效果和浓度我测出来够用但不稳定 可能和贴敷手法有关系 暂且蒙古 https://t.co/aGDn2X87Vc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-21T03:26:39.000Z",
+        "description": "mtf/adhd/infp/bpd?\n软糯又听话的蓁子会成为别人的宠物吗？\n叶家在逃公主，但最近真的很幸福到想哭。",
+        "id": "1141910274594619392",
+        "is_identity_verified": false,
+        "location": "参宿四",
+        "most_recent_tweet_id": "2102770686423158900",
+        "name": "梨雪沫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141910274594619392/1758362512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976706398429102080/fVI35sJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 458,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "ilobius",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
